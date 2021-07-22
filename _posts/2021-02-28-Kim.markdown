@@ -5,7 +5,7 @@ date:         2021-02-28
 keywords:
 - tag1
 - tag2
-mp3-url:      ""
+mp3-url:      "<iframe width="560" height="315" src="https://www.youtube.com/embed/cnCfPQBgK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 episode-type: "trailer" # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 ---
 Excerpt here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cnCfPQBgK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!--more-->
 
 More details of your episode here.
