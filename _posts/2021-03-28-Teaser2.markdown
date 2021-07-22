@@ -1,0 +1,18 @@
+---
+title:        "SSL! Teaser 1"
+subtitle:     "Coming soon... Some Stutter, Luh! Podcast with Greg O'Grady and Katelyn Mayo. NL's first podcast about stuttering."
+date:         2021-02-21
+keywords:
+- tag1
+- tag2
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: "trailer" # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Excerpt here.
+<!--more-->
+
+More details of your episode here.
