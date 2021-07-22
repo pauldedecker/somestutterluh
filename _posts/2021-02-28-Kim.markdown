@@ -1,9 +1,9 @@
 ---
 title:        "SSL! Teaser 2"
-subtitle:     "In today's teaser, we hear a little more about the people involved in Some Stutter, Luh! podcast. Team member, Luca Dinu, joins co-hosts Greg O'Grady and Katelyn Mayo to discuss their excitement about this project! Stay tuned for next week to meet the final member of our production team! And mark your calendars for our first full episode coming March 14th, 2021."
+subtitle:     ""
 date:         2021-02-28
 keywords:
-- tag1
+- speech language pathologists
 - tag2
 episode-type: "trailer" # or "full"
 explicit:     "no"
@@ -11,9 +11,8 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Excerpt here.
-
+In today's teaser, we hear a little more about the people involved in Some Stutter, Luh! podcast. Team member, Luca Dinu, joins co-hosts Greg O'Grady and Katelyn Mayo to discuss their excitement about this project! Stay tuned for next week to meet the final member of our production team! And mark your calendars for our first full episode coming March 14th, 2021.
+<!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cnCfPQBgK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-
-More details of your episode here.
+Transcription goes here.
