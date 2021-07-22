@@ -1,7 +1,7 @@
 ---
-title:        "SSL! Teaser 1"
-subtitle:     "Coming soon... Some Stutter, Luh! Podcast with Greg O'Grady and Katelyn Mayo. NL's first podcast about stuttering."
-date:         2021-02-21
+title:        "SSL! Teaser 2"
+subtitle:     "In today's teaser, we hear a little more about the people involved in Some Stutter, Luh! podcast. Team member, Luca Dinu, joins co-hosts Greg O'Grady and Katelyn Mayo to discuss their excitement about this project! Stay tuned for next week to meet the final member of our production team! And mark your calendars for our first full episode coming March 14th, 2021."
+date:         2021-02-28
 keywords:
 - tag1
 - tag2
