@@ -5,7 +5,7 @@ date:         2021-02-28
 keywords:
 - tag1
 - tag2
-#mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "trailer" # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
