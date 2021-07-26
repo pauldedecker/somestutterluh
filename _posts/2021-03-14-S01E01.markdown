@@ -1,0 +1,21 @@
+---
+title:        "S01E01: The Sociolinguistics of Stuttering"
+subtitle:     ""
+date:         "2021-03-14"
+keywords:
+-
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Welcome to our first official episode! On today's episode you'll hear a little more about your hosts (Greg O'Grady and Katelyn Mayo!), you'll learn about the mission and objectives of the Some Stutter, Luh! podcast and hear some of the positive feedback we've already received from the public!
+
+We invite guest Dr. Paul De Decker to introduce us to a recurring segment called 'The Science of Stuttering'. Paul is a professor of Linguistics at Memorial University and is a key part of our production team! For almost a year, he has been working with the people who stutter and the Newfoundland and Labrador Stuttering Association (NLSA) to develop research projects which aim to increase awareness of stuttering. Paul shares about some of the advocacy work he is doing and discusses his research on the Sociolinguistics of Stuttering. Make sure to listen to the episode to hear more from Paul, and stay tuned (!!!) because he will be back with more exciting research in future episodes.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6D_Heodty8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu
+Production Team: Greg O'Grady, Luca Dinu, Dr. Paul De Decker, Katelyn Mayo
