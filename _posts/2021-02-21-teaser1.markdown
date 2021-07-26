@@ -1,6 +1,6 @@
 ---
-title:        "Teaser #1"
-subtitle:     "Coming soon..."
+title:        "Teaser #1: Coming soon..."
+subtitle:     ""
 date:         "2021-02-21"
 keywords:
 - Teaser
