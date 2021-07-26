@@ -1,9 +1,10 @@
 ---
 title:        "S01E12"
 subtitle:     "Kim Lawlor"
-date:         2021-05-30
+date:         "2021-05-30"
 keywords:
 - speech language pathologists
+mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
