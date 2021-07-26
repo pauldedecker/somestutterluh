@@ -1,6 +1,6 @@
 ---
-title:        "Teaser #3"
-subtitle:     "Some Stutter, Luh?"
+title:        "Teaser #3: What's in a name?"
+subtitle:     ""
 date:         "2021-03-07"
 keywords:
 - tag1
