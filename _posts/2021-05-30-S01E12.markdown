@@ -1,6 +1,6 @@
 ---
-title:        "S01E12"
-subtitle:     "Kim Lawlor"
+title:        "S01E12: Kim Lawlor"
+subtitle:     ""
 date:         "2021-05-30"
 keywords:
 - speech language pathologists
