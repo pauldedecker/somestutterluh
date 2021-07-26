@@ -1,0 +1,21 @@
+---
+title:        "S01E03: Chad Feehan"
+subtitle:     ""
+date:         "2021-03-28"
+keywords:
+-
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode we are chatting with Chad Feehan!
+
+Chad is a writer, musician & student in Newfoundland. He is in school for journalism at CNA and is active in a number of artistic endeavors such as music, writing and photography. Chad says he has "been stuttering since I could talk" and throughout this episode we hear some of Chad's story. We talk about Chad's experiences growing up with a stutter, what he has done to begin to accept his stutter, and the overwhelming need for more attention to be put on treating the emotional component of stuttering and the mental health of people who happen to stutter.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6D_Heodty8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady
