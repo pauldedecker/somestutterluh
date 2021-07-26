@@ -1,0 +1,21 @@
+---
+title:        "S01E01: Ryan Cowley"
+subtitle:     ""
+date:         "2021-03-21"
+keywords:
+-
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode we are chatting with Ryan Cowley!
+
+Ryan is a sportswriter, originally from in St. John's, who grew up in Ottawa and now lives in Toronto. Currently, he is a hockey writer who writes about the NHL's Los Angeles Kings for RinkRoyalty.com.   He is also a public speaker, sharing his story of a sportswriter who stutters and is also writing a book on the subject. In this episode, we chat with Ryan about his lived experiences as a PWS, what impact this has had in his career and what he feels has helped him most on his stuttering journey!
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-aMsSMOt2nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu
+Production Team: Luca Dinu, Dr. Paul De Decker, Greg O'Grady, Katelyn Mayo
