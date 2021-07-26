@@ -1,10 +1,9 @@
 ---
 title:        "Teaser #1"
-subtitle:     ""
-date:         2021-02-21
+subtitle:     "Coming soon..."
+date:         "2021-02-21"
 keywords:
-- tag1
-- tag2
+- Teaser
 mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "trailer" # or "full"
 explicit:     "no"
