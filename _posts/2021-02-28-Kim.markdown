@@ -1,7 +1,7 @@
 ---
-title:        "SSL! Teaser 2"
-subtitle:     ""
-date:         2021-02-28
+title:        "S01E12"
+subtitle:     "Kim Lawlor"
+date:         2021-05-30
 keywords:
 - speech language pathologists
 episode-type: "full" #"trailer"
