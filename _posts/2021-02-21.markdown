@@ -1,0 +1,19 @@
+---
+title:        "Teaser #1"
+subtitle:     ""
+date:         2021-02-21
+keywords:
+- tag1
+- tag2
+mp3-url:      "/assets/audio/intro.mp3"
+episode-type: "trailer" # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Coming soon... Some Stutter, Luh! Podcast with Greg O'Grady and Katelyn Mayo. NL's first podcast about stuttering.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sRIFLC2NEJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Greg O'Grady, Katelyn Mayo
