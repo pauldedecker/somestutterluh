@@ -16,6 +16,4 @@ April is the parent of a person who stutters, and, having no previous knowledge 
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAT9qcECSNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
-Production Team: Katelyn Mayo, Luca Dinu, Dr. Paul De Decker, Emily Murphy, Greg O'Grady
+Music: Luca Dinu. Production Team: Katelyn Mayo, Luca Dinu, Dr. Paul De Decker, Emily Murphy, Greg O'Grady
