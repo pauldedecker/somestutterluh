@@ -10,9 +10,7 @@ block:        "no" # no means it is published
 layout: podcast2
 excerpt_separator: <!--more-->
 ---
-We have reached the end of our first season! To close out, we have members of our production team here to recap the season and chat about some of our favourite moments!
-
-On this episode, Dr. Paul De Decker shares updates on his research, Greg and Katelyn reflect on how the podcast has grown, and Greg, Katelyn, Paul and Luca share their highlights from this season's episodes and guests. The group also discusses what's next for the podcast and what you can look forward to in Season 2 (which is coming September 19th, stay tuned!!!)
+We have reached the end of our first season! To close out, we have members of our production team here to recap the season and chat about some of our favourite moments! On this episode, Dr. Paul De Decker shares updates on his research, Greg and Katelyn reflect on how the podcast has grown, and Greg, Katelyn, Paul and Luca share their highlights from this season's episodes and guests. The group also discusses what's next for the podcast and what you can look forward to in Season 2 (which is coming September 19th, stay tuned!!!)
 <!--more-->
 Transcript coming soon!
 <!--more-->
