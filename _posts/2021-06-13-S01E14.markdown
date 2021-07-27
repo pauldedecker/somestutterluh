@@ -1,5 +1,5 @@
 ---
-title:        "S01E13: Michael Campbell"
+title:        "S01E14: Michael Campbell"
 subtitle:     ""
 date:         "2021-06-13"
 keywords:
@@ -18,4 +18,4 @@ Michael is from Dallas, Texas. He is a person who stutters and is father to Came
 <!--more-->
 Music: Luca Dinu
 
-Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker 
+Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker
