@@ -1,0 +1,21 @@
+---
+title:        "S01E13: Michael Campbell"
+subtitle:     ""
+date:         "2021-06-13"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today, Greg and Katelyn chat with Michael Campbell, as well as a surprise guest, Michael's son Cameron!
+
+Michael is from Dallas, Texas. He is a person who stutters and is father to Cameron, who is also a person who stutters. Michael started the organization 'Smile I Stutter', which provides advocacy and support for people who stutter. Some of the goals of Smile I Stutter, which Michael addresses throughout the episode include: providing free speech therapy and the proper mental health resources for all those who stutter, having a Smile I Stutter representative in every school from kindergarten to post-secondary, and passing an act through congress which would require all drive-thrus to provide a touch screen option. Throughout the episode, Michael talks about his experiences as a person who stutters and how this has inspired him to create change! He discusses watching his son grow up with a stutter and explains that his son is the motivation behind creating the organization Smile I Stutter. Michael's son, Cameron, joins us in the interview and shares some of his experiences in school, as a student who stutters and both give advice for navigating school as a person who stutters. Michael also discusses his relationship with his stutter, learning to accept his stutter, and all the thinks he hopes to do to raise awareness for people who stutter!
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yZg3g2DqYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu
+
+Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker 

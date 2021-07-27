@@ -1,0 +1,21 @@
+---
+title:        "S01E13: Dr. Michael Boyle"
+subtitle:     ""
+date:         "2021-06-20"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, we are chatting with Dr. Michael Boyle.
+
+Dr. Boyle is a clinical speech-language pathologist and an Associate Professor in the Department of Communication Sciences and Disorders at Montclair State University in the United States where he teaches graduate courses in fluency disorders and directs the Fluency Disorders Laboratory. He is an influential researcher in the field of stuttering and SLP and researches the psychosocial impacts of stuttering including public and self-stigma. Dr. Boyle's research also focuses on identifying predictors of well-being and communicative participation in people who stutter. Throughout the episode, Dr. Boyle discusses some of his work with Greg and Katelyn, expanding on the concepts of stigma and stigma-reduction, as well as explaining the Self-Stigma of Stuttering Scale (4S). All three discuss the emotional component of stuttering and Dr. Boyle shares his thoughts on how to address this in treatment. He gives advice to PWS on how to deal with negative experiences and negative emotions. Finally, Dr. Boyle shares some of the most rewarding aspects of his work as an SLP, professor, and researcher.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vTt7FX7CMYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu
+
+Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker
