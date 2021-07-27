@@ -1,0 +1,21 @@
+---
+title:        "S01E19: Carolina Ayala"
+subtitle:     ""
+date:         "2021-07-19"
+keywords:
+mp3-url:      "/assets/audio/S01E19_Carolina_Ayala.mp3"
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On this episode, Greg and Katelyn chat with Carolina Ayala!
+
+Carolina is a person who stutters and an active advocate of stuttering acceptance. Throughout the interview, Carolina shared her personal stories and experiences as a PWS, detailing her journey towards acceptance. She talks about the anxiety, emotions, and bullying associated with stuttering and the impacts it has had on her personal and professional life. Carolina also shares how she overcomes the negative impacts and gives advice for other people who stutter. Carolina also talks about how best to educate the public and promote stuttering awareness!
+<!--more-->
+Transcript coming soon!
+<!--more-->
+Music: Luca Dinu
+
+Production Team: Luca Dinu, Dr. Paul De Decker, Melanie Crane, Katelyn Mayo, Emily Murphy, Greg O'Grady
