@@ -7,7 +7,7 @@ mp3-url:      "/assets/audio/S01E19_Carolina_Ayala.mp3"
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast
+layout: podcast2
 excerpt_separator: <!--more-->
 ---
 On this episode, Greg and Katelyn chat with Carolina Ayala!

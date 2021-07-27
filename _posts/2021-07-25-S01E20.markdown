@@ -7,7 +7,7 @@ mp3-url:      "/assets/audio/S01E20_Season1Finale.mp3"
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast
+layout: podcast2
 excerpt_separator: <!--more-->
 ---
 We have reached the end of our first season! To close out, we have members of our production team here to recap the season and chat about some of our favourite moments!
