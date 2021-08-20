@@ -1,0 +1,17 @@
+---
+title:        "S01 BONUS EPISODE"
+subtitle:     ""
+date:         "2021-08-22"
+keywords:
+mp3-url:      "/assets/audio/S01BONUS.mp3"
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast2
+excerpt_separator: <!--more-->
+---
+For our dedicated audience, a bonus episode coming August 22!<!--more-->
+<!--more-->
+Music: Luca Dinu
+
+Production Team: Katelyn Mayo, Luca Dinu, Greg O'Grady, Melanie Crane, Emily Murphy, Dr. Paul De Decker
