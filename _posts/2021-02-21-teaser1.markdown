@@ -8,7 +8,7 @@ mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "trailer" # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast
+layout: podcast2
 excerpt_separator: <!--more-->
 ---
 Coming soon... Some Stutter, Luh! Podcast with Greg O'Grady and Katelyn Mayo. NL's first podcast about stuttering.
