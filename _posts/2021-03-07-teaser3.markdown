@@ -8,7 +8,7 @@ mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "trailer" # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast
+layout: podcast2
 excerpt_separator: <!--more-->
 ---
 In this week's teaser, we reflect on the name of our podcast and learn a little bit more about where "Some Stutter, Luh" came from! Dr. Paul De Decker, professor of Linguistics at Memorial University & a member of our production team, explains the terms "some" and "luh" in the Newfoundland English dialect.
