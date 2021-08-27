@@ -7,7 +7,7 @@ mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast
+layout: podcast2
 excerpt_separator: <!--more-->
 ---
 Today we are chatting with George Shields!
