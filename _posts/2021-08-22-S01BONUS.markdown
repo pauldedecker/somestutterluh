@@ -10,7 +10,9 @@ block:        "no" # no means it is published
 layout: podcast2
 excerpt_separator: <!--more-->
 ---
-For our dedicated audience, a bonus episode coming August 22!
+For our dedicated audience, a bonus episode!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_GZBF175tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
 Music: Luca Dinu. Production Team: Katelyn Mayo, Luca Dinu, Greg O'Grady, Melanie Crane, Emily Murphy, Dr. Paul De Decker
