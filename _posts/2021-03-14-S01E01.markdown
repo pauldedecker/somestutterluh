@@ -4,11 +4,11 @@ subtitle:     ""
 date:         "2021-03-14"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+#mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 Welcome to our first official episode! On today's episode you'll hear a little more about your hosts (Greg O'Grady and Katelyn Mayo!), you'll learn about the mission and objectives of the Some Stutter, Luh! podcast and hear some of the positive feedback we've already received from the public!
