@@ -8,7 +8,7 @@ mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "trailer" # or "full"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 In today's teaser, we hear a little more about the people involved in Some Stutter, Luh! podcast. Team member, Luca Dinu, joins co-hosts Greg O'Grady and Katelyn Mayo to discuss their excitement about this project! Stay tuned for next week to meet the final member of our production team! And mark your calendars for our first full episode coming March 14th, 2021.
