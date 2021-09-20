@@ -1,14 +1,14 @@
 ---
-title:        "S01E12: Kim Lawlor"
-subtitle:     ""
+title:        "Interview with Kim Lawlor"
+subtitle:     "S01E12"
 date:         "2021-05-30"
 keywords:
 - speech language pathologists
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 Today, Greg and Katelyn chat with Kim Lawlor!
