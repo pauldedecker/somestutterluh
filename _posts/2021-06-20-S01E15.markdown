@@ -7,7 +7,7 @@ mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 On today's episode, we are chatting with Dr. Michael Boyle.
