@@ -3,7 +3,7 @@ title:        "Interview with Margit Pukonen"
 subtitle:     "BONUS EPISODE"
 date:         "2021-08-22"
 keywords:
-mp3-url:      "/assets/audio/S01BONUS.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
