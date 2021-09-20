@@ -1,6 +1,6 @@
 ---
-title:        "S01E19"
-subtitle:     "Carolina Ayala"
+title:        "Interview with Carolina Ayala"
+subtitle:     "S01E19"
 date:         "2021-07-19"
 keywords:
 mp3-url:      "/assets/audio/S01E19_Carolina_Ayala.mp3"
@@ -17,5 +17,5 @@ Carolina is a person who stutters and an active advocate of stuttering acceptanc
 Transcript coming soon!
 <!--more-->
 Music: Luca Dinu
-
+<!--more-->
 Production Team: Luca Dinu, Dr. Paul De Decker, Melanie Crane, Katelyn Mayo, Emily Murphy, Greg O'Grady
