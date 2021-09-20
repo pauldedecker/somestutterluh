@@ -1,14 +1,14 @@
 ---
-title:        "S01E05: Brent Foote"
-subtitle:     ""
+title:        "Interview with Brent Foote"
+subtitle:     "S01E05"
 date:         "2021-04-11"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 On today's episode we welcome Brent Foote!
