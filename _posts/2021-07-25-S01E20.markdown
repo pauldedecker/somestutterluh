@@ -1,6 +1,6 @@
 ---
-title:        "S01E20"
-subtitle:     "Season 1 Finale"
+title:        "Season 1 Finale"
+subtitle:     "S01E20"
 date:         "2021-07-25"
 keywords:
 mp3-url:      "/assets/audio/S01E20_Season1Finale.mp3"
