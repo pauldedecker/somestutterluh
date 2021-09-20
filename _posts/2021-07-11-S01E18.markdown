@@ -3,11 +3,11 @@ title:        "Interview with Cecil Haire"
 subtitle:     "S01E18"
 date:         "2021-07-11"
 keywords:
-#mp3-url:      ""
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 On today's episode, Greg and Katelyn chat with Cecil Haire!
@@ -16,6 +16,6 @@ Cecil Haire is a reporter for CBC news in St. John's. For many years Cecil has s
 <!--more-->
 <iframe width="560" height="315" src="https://youtu.be/8OA-or-I94g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
+Music: Luca Dinu.
 <!--more-->
 Production Team: Greg O'Grady, Katelyn Mayo, Emily Murphy, Melanie Crane, Dr. Paul De Decker, Luca Dinu
