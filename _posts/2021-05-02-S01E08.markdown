@@ -17,6 +17,6 @@ Lisa is a writer, graphic designer and artist living in Toronto with. She grew u
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKbqnyw9BHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
+Music: Luca Dinu.
+<!--more-->
 Production Team: Dr. Paul De Decker, Greg O'Grady, Katelyn Mayo, Luca Dinu
