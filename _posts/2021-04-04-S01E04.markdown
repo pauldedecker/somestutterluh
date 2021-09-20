@@ -1,14 +1,14 @@
 ---
-title:        "S01E04: Liz Fagan"
-subtitle:     ""
+title:        "Interview with Liz Fagan"
+subtitle:     "S01E04"
 date:         "2021-04-04"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 On today's episode we hear from Liz Fagan!
@@ -18,5 +18,5 @@ Liz is a musician, a writer for Le Gaboteur and is very involved in the French c
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jPZ9LgGhpDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
 Music: Luca Dinu
-
+<!--more-->
 Production Team: Greg O'Grady, Dr. Paul De Decker, Luca Dinu, Katelyn Mayo
