@@ -17,6 +17,6 @@ Jon is a person who stutters, a speech-language pathologist, and member of the N
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vEL57nlL418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
+Music: Luca Dinu.
+<!--more-->
 Production Team: Katelyn Mayo, Dr. Paul De Decker, Luca Dinu, Greg O'Grady
