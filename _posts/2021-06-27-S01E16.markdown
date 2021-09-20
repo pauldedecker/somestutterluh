@@ -1,13 +1,13 @@
 ---
-title:        "S01E16: April Kennedy"
-subtitle:     ""
+title:        "Interview with April Kennedy"
+subtitle:     "S01E16"
 date:         "2021-06-27"
 keywords:
 mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 Today, Greg and Katelyn are chatting with April Kennedy.
