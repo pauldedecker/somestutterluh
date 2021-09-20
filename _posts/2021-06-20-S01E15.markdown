@@ -1,6 +1,6 @@
 ---
-title:        "S01E15: Dr. Michael Boyle"
-subtitle:     ""
+title:        "Interview with Dr. Michael Boyle"
+subtitle:     "S01E15"
 date:         "2021-06-20"
 keywords:
 mp3-url:      ""
@@ -16,6 +16,6 @@ Dr. Boyle is a clinical speech-language pathologist and an Associate Professor i
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vTt7FX7CMYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
+Music: Luca Dinu.
+<!--more-->
 Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker
