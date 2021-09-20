@@ -16,5 +16,6 @@ Ryan is a film producer and took on the rolls of producer and director of the aw
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHcxUQ-liCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
+Music: Luca Dinu.
+<!--more-->
 Production Team: Dr. Paul De Decker, Luca Dinu, Emily Murphy, Greg O'Grady, Katelyn Mayo  
