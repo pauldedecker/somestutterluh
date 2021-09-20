@@ -1,6 +1,6 @@
 ---
-title:        "S01E19: Carolina Ayala"
-subtitle:     ""
+title:        "S01E19"
+subtitle:     "Carolina Ayala"
 date:         "2021-07-19"
 keywords:
 mp3-url:      "/assets/audio/S01E19_Carolina_Ayala.mp3"
