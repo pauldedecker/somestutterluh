@@ -1,13 +1,13 @@
 ---
-title:        "S01E14: Michael Campbell"
-subtitle:     ""
+title:        "Interview with Michael Campbell"
+subtitle:     "S01E14"
 date:         "2021-06-13"
 keywords:
 mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 Today, Greg and Katelyn chat with Michael Campbell, as well as a surprise guest, Michael's son Cameron!
@@ -16,6 +16,6 @@ Michael is from Dallas, Texas. He is a person who stutters and is father to Came
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yZg3g2DqYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
+Music: Luca Dinu.
+<!--more-->
 Production Team: Katelyn Mayo, Luca Dinu, Emily Murphy, Greg O'Grady, Dr. Paul De Decker
