@@ -1,6 +1,6 @@
 ---
-title:        "Season 2 Episode 1"
-subtitle:     "Interview with Dr. Gerald Maguire"
+title:        "Interview with Dr. Gerald Maguire"
+subtitle:     "Season 2 Episode 1"
 date:         "2021-09-19"
 keywords:
 #mp3-url:      "/assets/audio/S01BONUS.mp3"
