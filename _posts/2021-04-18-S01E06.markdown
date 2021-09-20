@@ -1,14 +1,14 @@
 ---
-title:        "S01E056: Audrey Bigras"
-subtitle:     ""
+title:        "Interview with Audrey Bigras"
+subtitle:     "S01E056"
 date:         "2021-04-18"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 In this episode we chat with Audrey Bigras!
@@ -17,6 +17,6 @@ Audrey is a person who stutters and a member of ABC (Association Bégaiement Com
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mfrz9rk_Gm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-
+Music: Luca Dinu.
+<!--more-->
 Production Team: Luca Dinu, Katelyn Mayo, Greg O'Grady, Dr. Paul De Decker
