@@ -16,6 +16,6 @@ Margit is the Program Director at The Speech & Stuttering Institute.  She receiv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_GZBF175tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
+Theme music: Luca Dinu.
 <!--more-->
 Production Team: Katelyn Mayo, Luca Dinu, Dr. Paul De Decker, Greg O'Grady, Emily Murphy, Melanie Crane
