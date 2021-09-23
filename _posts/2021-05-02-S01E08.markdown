@@ -1,14 +1,14 @@
 ---
-title:        "S01E08: Lisa Wilder"
-subtitle:     ""
+title:        "Interview with Lisa Wilder"
+subtitle:     "S01E08"
 date:         "2021-05-02"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 On today's episode we chat with Lisa Wilder!
