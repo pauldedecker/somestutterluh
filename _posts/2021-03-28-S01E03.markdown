@@ -1,10 +1,10 @@
 ---
-title:        "S01E03: Chad Feehan"
-subtitle:     ""
+title:        "Interview with Chad Feehan"
+subtitle:     "S01E03"
 date:         "2021-03-28"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
