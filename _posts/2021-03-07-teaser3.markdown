@@ -1,6 +1,6 @@
 ---
-title:        "Teaser #3: What's in a name?"
-subtitle:     ""
+title:        "What's in a name?"
+subtitle:     "Teaser #3"
 date:         "2021-03-07"
 keywords:
 #mp3-url:      "/assets/audio/intro.mp3"
