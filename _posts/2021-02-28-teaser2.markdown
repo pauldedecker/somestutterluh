@@ -1,6 +1,6 @@
 ---
-title:        "Teaser #2: Meet Luca"
-subtitle:     ""
+title:        "Meet Luca"
+subtitle:     "Teaser #2"
 date:         "2021-02-28"
 keywords:
 - Teaser
