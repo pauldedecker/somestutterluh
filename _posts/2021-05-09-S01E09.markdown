@@ -1,6 +1,6 @@
 ---
-title:        "S01E09: Jon Garcin"
-subtitle:     ""
+title:        "Interview with Jon Garcin"
+subtitle:     "S01E09"
 date:         "2021-05-09"
 keywords:
 -
@@ -8,7 +8,7 @@ mp3-url:      "/assets/audio/intro.mp3"
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 In today's episode we interview Jon Garcin!
