@@ -1,14 +1,14 @@
 ---
-title:        "S01E07: John Gomez"
-subtitle:     ""
+title:        "Interview with John Gomez"
+subtitle:     "S01E07"
 date:         "2021-04-25"
 keywords:
 -
-mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
-layout: podcast2
+layout: podcast
 excerpt_separator: <!--more-->
 ---
 In today's episode we are chatting with John Gomez!
