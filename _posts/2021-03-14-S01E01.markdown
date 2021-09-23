@@ -1,10 +1,10 @@
 ---
-title:        "S01E01: The Sociolinguistics of Stuttering"
-subtitle:     ""
+title:        "The Sociolinguistics of Stuttering"
+subtitle:     "S01E01"
 date:         "2021-03-14"
 keywords:
 -
-#mp3-url:      "/assets/audio/intro.mp3"
+mp3-url:      ""
 episode-type: "full" #"trailer"
 explicit:     "no"
 block:        "no" # no means it is published
