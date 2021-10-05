@@ -1,0 +1,21 @@
+---
+title:        "Interview with Brad Glynn"
+subtitle:     "Season 2 Episode 3"
+date:         "2021-10-03"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn are chatting with Brad Glynn.
+
+Brad is the executive director of [[CHANNEL]](https://www.channal.ca/home-1), a registered charity created by and for individuals living with mental health and addictions issues. Brad, himself, has experienced mental health challenges, as well as injuries, which led to the development of a stutter. Brad talks about the changes to his mental health that came as a result of developing a stutter and the additional challenges his stuttering has caused. Brad shares his story in an emotional and vulnerable way, and his struggles have led him to a job in the field of mental health support and awareness. Brad explains to Greg and Katelyn the mission of CHANNEL and some of the resources the organization offers. He talks about the need for mental health resources for people who stutter and gives advice to those seeking support, emphasizing the importance of finding others with similar lived experiences. Throughout the interview, Brad is vocal about the need for awareness and stigma reduction for both stuttering and mental health challenges, and this is something Brad works towards in his job and personal life.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsvxIu9ANhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
