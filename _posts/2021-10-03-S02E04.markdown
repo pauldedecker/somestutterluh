@@ -1,0 +1,21 @@
+---
+title:        "Interview with Laura Tulk"
+subtitle:     "Season 2 Episode 4"
+date:         "2021-10-10"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On this episode, we are very excited to be chatting with our friend, Laura Tulk!
+
+Laura is currently in her second year at the University of Toronto studying Speech-Language Pathology and has been a long time supporter of SSL! She has been an active advocate for stuttering awareness in Newfoundland, which we discuss together throughout this episode. In 2020, Laura created the documentary "Getting the Words Out" in collaboration with the Newfoundland and Labrador Stuttering Association to help dispel stuttering stereotypes and increase public awareness and understanding of stuttering. She is also a member of the NLSA Collaborative research group and has worked with fluency clients in her placements as an SLP students. Laura shares details about these experiences and the impact they have had on her and the stuttering community. Laura and Katelyn talk about the importance of understanding the emotional component of stuttering as future clinicians working in the area of fluency disorders. Laura shares what it was like to complete her first year of graduate school online and gives lots of thoughtful and insightful advice & tips for future SLP students going into their first year or working on grad school applications!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Laura-Tulk-e18iv71" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
