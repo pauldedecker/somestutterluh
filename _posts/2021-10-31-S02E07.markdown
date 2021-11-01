@@ -1,0 +1,20 @@
+---
+title:        "Ryan Cowley Returns!"
+subtitle:     "Season 2 Episode 7"
+date:         "2021-10-31"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On this episode we welcome back Ryan Cowley! We had a great discussion about his new book, "All THE RIGHT WORDS, My Journey as a Sportswriter Who Stutters". Ryan’s book is a truly remarkable and inspirational work, a must read and a re-read.  Thank you Ryan for sharing your story.
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Ryan-Cowley-e19jbeo/a-a6qbdlf" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
