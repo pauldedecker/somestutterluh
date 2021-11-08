@@ -1,0 +1,22 @@
+---
+title:        "Jordi Fernandez"
+subtitle:     "Season 2 Episode 8"
+date:         "2021-11-07"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn welcome Jordi Fernandez!
+
+Jordi is originally from Spain but lives in the UK. He studied mechanical engineering, but moved to UK in 2007 to work as a subsea engineer. Then, after working for 10 years designing subsea structures for deepwater projects for the oil & gas,  Jordi decided to quit to build the app BeneTalk. Jordi tells us about the ideas behind BeneTalk and how his experiences as a person who stutters in life and in speech therapy inspired the app. Jordi compared the app to a 'fitness tracker', where you can track progress! Jordi spoke with us about the goal of the app, which he hopes will be able to help those already in therapy maintain their skills and improve their mental health, as well as providing speech therapy techniques for this who stutter but may not have access to treatment and therapy. Jordi and his team have created a wonderful app, and you can find more info at their website https://www.benetalk.com/.
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Jordi-Fernandez-e19t577" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
