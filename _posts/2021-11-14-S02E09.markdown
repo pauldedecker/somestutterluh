@@ -1,0 +1,20 @@
+---
+title:        "Dan Rossi"
+subtitle:     "Season 2 Episode 9"
+date:         "2021-11-14"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+In today’s episode, Katelyn and Greg are welcoming back Dan Rossi! Dan Rossi is a digital marketer and cartoonist living in Toronto, Canada. He is the host of the long-standing "Stuttering is Cool" podcast and author of the book "Stuttering is Cool" (which you can find for sale [Dan's website](http://stutteringiscool.com/)! Unfortunately, Katelyn was overwhelmed with midterm exams, assignments, and the business of grad school, so Greg graciously took over this interview himself! Throughout the interview, Greg and Dan talk about the character Franky Banky, a fox who stutters, created by Dan! They discuss how this character can be a useful therapeutic tool in speech therapy!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dan-Rossi-e1a90ma" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
