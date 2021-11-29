@@ -1,0 +1,15 @@
+---
+title:        "Interview with Dr. Ronan Miller"
+subtitle:     "Season 2 Episode 11"
+date:         "2021-11-28"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--Ronan-Miller-e1auv21/a-a706a20" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
