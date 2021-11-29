@@ -1,5 +1,5 @@
 ---
-title:        "Dr. Mark Onslow"
+title:        "Interview with Dr. Mark Onslow"
 subtitle:     "Season 2 Episode 10"
 date:         "2021-11-21"
 keywords:
@@ -16,7 +16,4 @@ Dr. Onslow is the Foundation Director of the Australian Stuttering Research Cent
 
 <iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--Mark-Onslow-e1ajqdq/a-a6unhfd" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-!--more--
-Theme music: Luca Dinu.
-!--more--
-Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
