@@ -1,0 +1,22 @@
+---
+title:        "Dr. Mark Onslow"
+subtitle:     "Season 2 Episode 10"
+date:         "2021-11-21"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today, Greg and Katelyn are welcoming Dr. Mark Onslow!
+
+Dr. Onslow is the Foundation Director of the Australian Stuttering Research Centre. His research interests are the epidemiology of early stuttering, mental health of those who stutter, measurement of stuttering, and the nature and treatment of stuttering. Mark is also a member of the international Lidcombe Program Trainers Consortium. Throughout the interview, Mark explains what the Lidcombe Program is, and discusses some special considerations for treating young people who stutter. All three talk about the emotional component of stuttering and the relationship between stuttering and mental health. Further, they talk about addressing feelings and attitudes surrounding stuttering with children, and how to best intervene early and mediate the negative effects stuttering may have on mental health in the future.
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--Mark-Onslow-e1ajqdq/a-a6unhfd" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+!--more--
+Theme music: Luca Dinu.
+!--more--
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
