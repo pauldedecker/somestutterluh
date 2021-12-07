@@ -10,6 +10,10 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
+Today, Greg and Katelyn are speaking with Dr. Ronan Miller!
+
+Ronan is a person who stutters, an English foreign language teacher, and worked on his PhD at the University of Valencia. His research looks into the experiences of students who stutter in foreign language classes. He is also a member of the team that is developing the app BeneTalk, which is an app for people who stutter. He considers himself a stuttering advocate and enjoys talking about stuttering in an open and honest way, which is what he shared with us throughout the episode! He also shared some insights into stuttering in bilingual/multilingual individuals and discussed some points from his research!
+
 <iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--Ronan-Miller-e1auv21/a-a706a20" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
