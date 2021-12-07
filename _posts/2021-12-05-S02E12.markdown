@@ -1,0 +1,19 @@
+---
+title:        "Interview with Mary Wood"
+subtitle:     "Season 2 Episode 12"
+date:         "2021-12-05"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, we are welcoming Mary Wood!
+
+Mary is a person who stutters and has had lots of experiences throughout her life to share with us on this topic! Mary talks about her experiences in speech therapy, and her experiences in support groups. All three discuss the importance of support group for people who stutter. Mary gives advice for future clinicians, as well as the future generation of people who stutter. Throughout the episode, Mary offers wisdom and provides inspiration and motivation in her stories and experiences!  
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Mary-Wood-e1b96pr/a-a71igco" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
