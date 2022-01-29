@@ -1,0 +1,21 @@
+---
+title:        "Interview with Tightrope Improv Theatre"
+subtitle:     "Season 2 Episode 14"
+date:         "2022-01-16"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today Greg and Katelyn are chatting with Dr. Rachel Goldenberg, one of Katelyn's classmates!
+
+Dr. Rachel Goldenberg is a leading authority in singing and lung disease. Dr. Goldenberg’s doctoral dissertation focused on the use of singing lessons as an adjunctive airway clearance technique for cystic fibrosis and her article, “Singing for Respiratory Health: A Literature Review” was published in 2018 in the peer-reviewed Journal of Voice. As an active and trained singing voice specialist, she frequently assists injured singers, actors and other voice users referred to her from medical professionals and the voice community. Dr. Goldenberg received her Doctor of Musical Arts in vocal pedagogy from Shenandoah University and also holds undergraduate and graduate degrees in voice performance and pedagogy from Westminster Choir College in Princeton, New Jersey. She previously taught voice, speech and pedagogy at Ambrose University and maintained a private voice studio in her native Calgary. Recently she has focused her work on helping people with lung disease to better coordinate their breath with the voice through individual lessons and the “Breathe, Sing, Move!” program created at Breathe Well Physio in Calgary.  
+
+During our interview, Rachel told us about the “Breathe, Speak, Pace” voice skills program for people experiencing long-COVID. Rachel talked a lot about how she teaches breath training and breathing skills, and her and Greg discuss the importance of breath in stuttering management. Rachel explains why she was drawn to Speech-Language Pathology and what inspired her to continue to pursue her education. Throughout the interview, all three discuss the importance of music, and how singing can be beneficial in many ways, including in stuttering treatment. Rachel also talks about acceptance when living with a chronic condition, and explains the parallel she has seen between those with chronic lung disease and the experience of stuttering. Finally, Rachel gives some words of wisdom to Katelyn, her classmates, and any other students listening to the podcast!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--Rachel-Goldenberg-e1d15j3/a-a78cde8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.

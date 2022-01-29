@@ -1,0 +1,19 @@
+---
+title:        "Interview with Tightrope Improv Theatre"
+subtitle:     "Season 2 Episode 13"
+date:         "2022-01-09"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Our first interview of 2022 and our first group interview! Today, Greg and Katelyn are chatting with Wendy, Dan, and Robert of Tightrope Improv Theatre!
+
+Tightrope Improv a company specializing in the art of improvisation. This company, based in British Columbia, partners with Columbia Speech and Language Services Inc. to provide improv classes for people who stutter. Tightrope will bring the fundamentals of improv to support participants to speak with confidence by focusing on presence & saying yes, cultivating laughter, and celebrating mistakes. Throughout our interview we spoke with the Tightrope team members Dan (Director of Work and Wellness), Wendy Duke (Speech Language Pathologist and founder of Columbia Speech and Language Services Inc), and Robert O’Brien (Author, Educator, trained actor, and PWS). The team talked about the benefits participants of these Improv workshops have experienced and share how these workshops came to be. Katelyn and Wendy have conversations about speech-language pathology, Dan shares about his experiences with improv and what exactly improv entails, and Robert & Greg discuss some personal experiences as people who stutter. All three offer some interesting perspectives and discussions, and we are so lucky to have had the chance to speak with them!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Tightrope-Improv-Theatre-e1cmbug/a-a775bha" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
