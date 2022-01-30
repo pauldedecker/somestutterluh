@@ -1,0 +1,19 @@
+---
+title:        "Interview with Paige Smith"
+subtitle:     "Season 2 Episode 15"
+date:         "2022-01-23"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today, Greg and Katelyn are speaking with Paige Smith!
+
+Paige is a person who stutters and has spent her adult years focusing on accepting her stutter and turning it into something more positive! Paige started the "The Happy Stutterer Mindset" coaching program, which she says guides you through the emotional healing process, allowing you to gain speaking confidence from the inside-out. Throughout the interview, Paige tells us about how this program started and what it entails. She explains the success she's seen from this program, and how important gaining confidence can be for everyone. Paige shares some of her own struggles that led her to this point, and shares some of the things that helped her most along the way, including a poignant story about why she decided to change her name. All three discuss the heavy emotions that accompany stuttering and the need to address those emotions and learn to live and be happy and confident, despite your stutter.
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Paige-Smith-e1dbafh/a-a79hgq9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
