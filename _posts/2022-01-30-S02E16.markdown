@@ -10,10 +10,10 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-On today's episode, Greg and Katelyn are speaking with Martha Horrocks!
+On today's episode, Greg and Katelyn are speaking with Martha Horrocks! We're also testing out a video version of the podcast. We hope you like it.
 
 Martha, also known as @martha_speech on instagram, is a Maine-based S-LP. She is the owner of Martha Speech & Stuttering Therapy, a private practice providing speech/language teletherapy for school-age children. Martha is passionate about stuttering, and shares the latest research, treatment ideas, and resources with people who stutter, speech-language pathologists, educators, and parents on her Instagram page! Martha also specializes in teletherapy and creates interactive, digital activities to support therapy sessions. Prior to becoming a SLP, Martha received two other MEds (in Elementary Education and Special Education), and worked as a special educator. Throughout this interview, Martha shares her journey towards Speech-Language Pathology and speaks about her interest in stuttering. Martha gave us an interesting look into treating young people and children who stutter. We discussed the emotional component of stuttering and the importance of addressing this in therapy. Katelyn and Martha discussed why they think some S-LPs shy away from stuttering.
 
-<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Martha-Horrocks-e1dlntd" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZtQ2V4K_oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
