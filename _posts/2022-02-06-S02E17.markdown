@@ -1,0 +1,19 @@
+---
+title:        "Interview with Dr. David Luterman"
+subtitle:     "Season 2 Episode 17"
+date:         "2022-02-06"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today, Greg and Katelyn are chatting with Dr. David Luterman!
+
+Dr. Luterman is an audiologist who has made incredible contributions to the fields of both audiology and speech-language pathology with his research and publications about counselling for people with communication disorders. Dr. Luterman has a long list of achievements, some of which he discussed with us throughout the podcast. During the interview, Dr. Luterman explains a little about his primary area of interest, counselling for families of hearing impaired children, but also talks about his work with stuttering and communication disorders more broadly. The three discuss the emotional components of communication disorders, and the need for this to be better addressed. David and Katelyn chat about why the field is lacking when it comes to counselling, and why it would be beneficial for students and clinicians to receive more counselling training. David gives advice for communicating difficult information to clients and their families, while especially emphasizing the role of the parents in these situations. David also talks about his work with support groups, and he and Greg discuss the importance of support groups for people with communication disorders, as well as for their families and loved ones.
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--David-Luterman-e1e0ok4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
