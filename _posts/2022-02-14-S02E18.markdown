@@ -1,0 +1,21 @@
+---
+title:        "Happy Valentine's Day with Carolina and Sang!"
+subtitle:     "Season 2 Episode 18"
+date:         "2022-02-14"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+For our special Valentine's Day episode, we are welcoming back Carolina Ayala, who is joined by her partner Sang!
+
+Carolina and Sang are a long distance couple from two different cultures, living in different North American cities. Carolina, an extrovert who lives in Toronto and working as a Community Support Worker supporting people with disabilities. Sang, an introvert who works as an IT Tech living in New York City. They are both foodies at heart that share common interests such as  being curious and enthusiastic to explore the world together and challenge each other along the way. They are sometimes opposites who attract. But they are definitely 2 stuttering peas in a pod!
+
+Sang and Carolina share with us what dating is like as a person who stutters. They chat about how stuttering brought them together, and the best parts about being in a relationship with another PWS!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Carolina-and-Sang-A-Valentines-Day-special-e1eca1o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
