@@ -17,8 +17,8 @@ We invite guest Dr. Paul De Decker to introduce us to a recurring segment called
 <!--more-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6D_Heodty8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-Music: Luca Dinu
-Production Team: Greg O'Grady, Luca Dinu, Dr. Paul De Decker, Katelyn Mayo
+Music: Luca Dinu.
+Production Team: Greg O'Grady, Luca Dinu, Dr. Paul De Decker, Katelyn Mayo.
 <!--more-->
 <p>
 <b>Transcript</b>
