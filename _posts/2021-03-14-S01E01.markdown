@@ -21,7 +21,7 @@ Music: Luca Dinu
 Production Team: Greg O'Grady, Luca Dinu, Dr. Paul De Decker, Katelyn Mayo
 <!--more-->
 <b>Transcript</b>
-
+<blockquote>
 Greg O'Grady:  Welc- welcome to to the official launch episode of Some Stutter, Luh!, Newfoundland and Labrador's first podcast stuttering uh first podcast about stuttering. My uh my name is Greg O’Grady and and I am the Newfoundland Labrador Stuttering Association chair, and I am one of the Some Stutter, Luh! (Newfoundland’s first podcast about stuttering) co-host along with…
 Katelyn Mayo: My name is Katelyn Mayo, and I am one of the co-hosts as well. I am an undergraduate linguistics student at Memorial University, and I’m finishing up this semester, and I am an aspiring speech language pathologist.
 Greg O'Grady: Some Stutter, Luh! mission is dismantling and rebuilding stuttering one word at a time. Some- Some Stutter, Luh! mandate is, in the spirit of Newfoundland and Labrador humour, robust and frank interactive discussions. Some Stutter Luh! podcast aims to rebuild confidence and hope for the days and tomorrow's persons who happen to stutter by dismantling stuttering myths, stigma, stereotypes and barriers.
@@ -45,3 +45,4 @@ Greg O'Grady: Thank you, and so uh, Katelyn, we, you know, this, you know, uh So
 Katelyn Mayo: Some Stutter, Luh! Newfoundland's first podcast about stuttering, has so much to talk about. Let's start listening.
 Greg O'Grady: Oh, Katelyn, I oh I hear that uh, you know, I hear that, you know, Luca Luca is is starting to tickle the the the ivories of of music. So so I think this is this is this this is our end, uh this is our cue to end this this episode of Some Stutter, Luh! uh podcast. So thank you all very much for listening.
 Dr. Paul De Decker: This has been an episode of Some Stutter, Luh!, Newfoundland and Labrador's first podcast about stuttering. Some Stutter, Luh! is hosted and produced by Greg O’Grady, Katelyn Mayo, and Dr. Paul De Decker. Some Stutter, Luh! is available on Anchor, Spotify, Breaker, Google Podcasts, Pocket Casts and RadioPublic. To ask a question, send us a comment or a suggestion, or just to get in touch, find us online on Instagram @somestutterpodcast and Facebook @somestutterluhpod. Thanks for listening.
+</blockquote>
