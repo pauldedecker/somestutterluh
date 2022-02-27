@@ -16,4 +16,8 @@ Dr. Luterman is an audiologist who has made incredible contributions to the fiel
 
 <iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Dr--David-Luterman-e1e0ok4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
+Did you know? The SSL! team is experimenting with video podcasting. You now have two ways to experience Some Stutter, Luh!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CgDm6kB8vaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.

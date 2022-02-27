@@ -1,0 +1,19 @@
+---
+title:        "Interview with Andrea Power"
+subtitle:     "Season 2 Episode 20"
+date:         "2022-02-27"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today’s episode, Greg and Katelyn are chatting with Andrea Power! Andrea attended the Walk/Run event in 2018 in support of NLASLPA organized by Greg and members of the stuttering community. Shortly after she quickly accepted an invitation to join the board for the newly formed NLSA.
+She continues to be inspired by work of the Board and is impressed at how far the NLSA has come in the past 3 years. She is proud to be a part of this growing not for profit organization and embraces the opportunity to expand her knowledge about stuttering so that she can assist in raising awareness and acceptance of PWS!
+
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Andrea-Power-e1f09d6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
