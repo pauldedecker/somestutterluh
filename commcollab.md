@@ -1,7 +1,5 @@
 ---
 layout: default
-title: The Communication Collaborative
-permalink: /commcollab/
 ---
 <h2>What is The Communication Collaborative?</h2>
 The Communication Collaborative (previously known as the NLSA COLLABORATIVE) is a research group in solidarity with The Newfoundland and Labrador Stuttering Association (NLSA) and those with speech, language and voice impairments living in the Canadian province of Newfoundland and Labrador.
