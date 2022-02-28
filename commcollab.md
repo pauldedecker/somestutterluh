@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: The Communication Collaborative
 permalink: /commcollab/
 ---
