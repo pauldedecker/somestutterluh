@@ -8,4 +8,4 @@ For more information about the NLSA - which is dedicated to advocacy and support
 <br/>
 <h2>News & Blog</h2>
 
-{% include navigation2.html %}
+{% include navigation.html %}
