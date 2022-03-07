@@ -1,0 +1,20 @@
+---
+title:        "Interview with Penny Welch-West"
+subtitle:     "Season 2 Episode 21"
+date:         "2022-03-06"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Today, Greg and Katelyn are chatting with Penny Welch-West!
+
+Penny Welch-West is a medical Speech-Language Pathologist working at Parkwood Institute, St. Joseph's Healthcare in London, Ontario. She holds a Lecturer position with the University of Western Ontario and an Adjunct Clinical Professor position with McMaster University. Penny practices as a medical SLP in a hospital setting working in Complex and Continuing Care as well as Acquired Brain Injury, working with an adult population including young adults.She has a special interest in concussion care and specifically return to learn in the secondary and post-secondary school populations.  Throughout her clinical practice, she can most often be found advocating for cognitive-communication services. As the first medical S-LP on the show, Greg and Katelyn ask Penny broad questions about what exactly her clinical work consists of and the types of people she sees on her caseload. Penny shares her experiences as an S-LP and talks about what drew her to the medical field. Penny also explains Augmentative and Alternative Communication (AAC) and it's place in her clinical practice. All three discuss the importance of advocacy and awareness for individuals with communication differences, whether that be a person who stutters, or an individual with an acquired language disorder or traumatic brain injury.
+
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Penny-Welch-West-e1faeu5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
