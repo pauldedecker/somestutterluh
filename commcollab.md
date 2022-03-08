@@ -8,4 +8,8 @@ For more information about the NLSA - which is dedicated to advocacy and support
 <br/>
 <h2>News & Blog</h2>
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
+</div>
+
 {% include navigation.html %}
