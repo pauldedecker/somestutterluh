@@ -7,7 +7,6 @@ copyright: "&#x2117; &amp; &#xA9; 2021"
 plugins:
   - jekyll-gist
 logo: /assets/img/SSL-logo-notitle.png
-image: /assets/img/SSL-logo-notitle.png
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
