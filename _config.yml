@@ -5,6 +5,7 @@ email: info@somestutterluh.ca
 lang: en-us
 copyright: "&#x2117; &amp; &#xA9; 2021"
 logo: /assets/img/SSL-logo-notitle.png
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
