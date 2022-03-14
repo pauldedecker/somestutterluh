@@ -1,0 +1,17 @@
+---
+title:        "Season 2 Finale"
+subtitle:     "Season 2 Episode 22"
+date:         "2022-03-13"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Hard to believe it but we've reached our final episode of Season 2! Join the production team as they discuss new the many new projects scheduled for The Communication Collaborative. We also celebrate the 1st Anniversary of SSL!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Season-2-Finale-e1fmrmi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane.
