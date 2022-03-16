@@ -9,8 +9,8 @@
     </td>
 -->
     <td>
-      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a><br />
-      <small>{{ post.date | date: "%-d %B %Y" }}</small>
+      <a href="{{ blog.url | absolute_url }}">{{ blog.title }}</a><br />
+      <small>{{ blog.date | date: "%-d %B %Y" }}</small>
     </td>
   </tr>
   {% endfor %}
