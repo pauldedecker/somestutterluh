@@ -1,5 +1,5 @@
 <table>
-  {% for post in site.blog%}
+  {% for post in site.posts %}
   <tr>
 <!-- TODO: Add a thumbnail
     <td>
@@ -9,7 +9,7 @@
     </td>
 -->
     <td>
-      <a href="{{ blog.url | absolute_url }}">{{ blog.title }}</a><br />
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a><br />
       <small>{{ post.date | date: "%-d %B %Y" }}</small>
     </td>
   </tr>
