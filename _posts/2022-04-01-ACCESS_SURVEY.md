@@ -3,6 +3,13 @@ layout: post
 title: "Accessibility Survey"
 categories: Research, Survey
 ---
+Please read if one of the following describes you:
+
+1. people who stutter (PWS) in NL
+2. a parent or primary caregiver of a PWS in NL
+3. a speech-language pathologist in NL
+4. an educator in NL
+
 You are invited to complete a survey about the accessibility of services for people who stutter (PWS) in Newfoundland and Labrador. This survey is conducted by The Newfoundland and Labrador Stuttering Association Collaborative, which is a cross-sector group of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador.
 
 We are looking to recruit:
