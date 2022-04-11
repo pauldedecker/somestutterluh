@@ -6,6 +6,7 @@ The Communication Collaborative (previously known as the NLSA COLLABORATIVE) is 
 We are people who stutter (PWS), members of provincial government, members of the public, educators, speech-language pathologists, academic researchers, university students, mental health professionals, disability advocates, and NLSA members.
 For more information about the NLSA - which is dedicated to advocacy and support for people who stutter - please visit their <a href="http://nlstuttering.ca">website</a>.
 <br>
+<br>
 Please read if one of the following describes you:
 
 1. people who stutter (PWS) in NL
