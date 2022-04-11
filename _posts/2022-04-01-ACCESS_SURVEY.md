@@ -5,7 +5,7 @@ categories: Research, Survey
 ---
 Please read if one of the following describes you:
 
-1. people who stutter (PWS) in NL
+1. a person who stutter (PWS) in NL
 2. a parent or primary caregiver of a PWS in NL
 3. a speech-language pathologist in NL
 4. an educator in NL
