@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accessibility Survey"
-categories: Research, Survey
+categories: Research
 ---
 Please read if one of the following describes you:
 
