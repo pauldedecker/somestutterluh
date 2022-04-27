@@ -1,0 +1,21 @@
+---
+title:        "Interview with Cecil Haire"
+subtitle:     "S01E18"
+date:         "2021-07-11"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn chat with Cecil Haire!
+
+Cecil Haire is a reporter for CBC news in St. John's. For many years Cecil has supported the stuttering community in Newfoundland, but has now decided to speak out about his own experiences with stuttering! Throughout the podcast, Cecil talks about the tools and strategies he has used throughout his life and his career to hide his stutter. He also expands on the toll that hiding his stutter has taken on him emotionally and psychologically. He talks about feelings of panic and anxiety, how he deals with these stressful moments, and how he takes care of himself. Cecil discusses his journey of acceptance of his stutter, and how disclosing his stutter for the first time on this podcast is an important step! Katelyn, Greg, and Cecil discuss the importance of role models for people who stutter; Cecil shares his role model of Samuel L. Jackson, and he discusses the idea that he, with his career as a reporter and public figure who stutters, could be viewed as role model for people who stutter.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8OA-or-I94g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu.
+<!--more-->
+Production Team: Greg O'Grady, Katelyn Mayo, Emily Murphy, Melanie Crane, Dr. Paul De Decker, Luca Dinu

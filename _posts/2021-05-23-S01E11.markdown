@@ -1,0 +1,20 @@
+---
+title:        "Interview with Ronan Corr"
+subtitle:     "S01E11"
+date:         "2021-05-23"
+keywords:
+-
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today’s episode, Greg and Katelyn chat with Ronan Corr! Ronan is a person who stutters, having developed a stutter as a result of brain injury. Ronan talks about his experiences living with his stutter, and how they may differ from someone who’s cause of stuttering is unknown. They discuss the differences in conceptualizing stuttering when it comes to being as a result of clear biological factors, and how this impacts the shame and anxiety experienced. Ronan all shares some powerful thoughts about living with disability.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRXd932wu6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu.
+<!--more-->
+Production Team: Greg O’Grady, Katelyn Mayo, Emily Murphy, Dr. Paul De Decker, Luca Dinu

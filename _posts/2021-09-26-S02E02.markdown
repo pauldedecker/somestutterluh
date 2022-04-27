@@ -1,0 +1,30 @@
+---
+title:        "Interview with Amy Bateman"
+subtitle:     "Season 2 Episode 2"
+date:         "2021-09-26"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+WHAT IS A CDA? On today's episode, Greg and Katelyn chat with Amy about her role as a CDA and the benefit CDAs provide in speech therapy!
+
+Amy Bateman is a graduate of [Memorial University](https://www.mun.ca) and has recently finished the Communicative Disorders Assistant program at [St. Lawrence College](https://www.stlawrencecollege.ca/). Throughout this interview, Amy shares with us her experiences in this program and explains exactly what a CDA is, how they differ from an SLP, and all the ways in which a CDA can enhance a client's experience. While sharing her own stories from the program and from her placements, Amy also emphasizes the need for more CDAs (especially in Newfoundland & Labrador) and for the valuable work that they do to be more recognized in the community. Greg and Katelyn discuss ways in which SSL could support CDAs in NL and encourage Amy to keep advocating for CDAs and the incredible work that they do!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h8A2amFq0jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This episode is dedicated in loving memory of Jaclyn Aguiar, who left us before the world could see what an incredible CDA and person she would become. Some words from her friend and classmate, Amy:
+
+>I would like to thank Katelyn and Greg for providing me the opportunity to dedicate this episode of SSL to my friend, Jaclyn Aguiar.   
+
+>Jaclyn was a student in the Communicative Disorders Assistant program at St. Lawrence College. She was a straight A student who had the charisma and motivation to move mountains. Jaclyn enjoyed the CDA program as it provided academic challenges and the opportunity to learn about communicative disorders in the field of Speech-Language Pathology and Audiology. Jaclyn became a close friend of mine over the course of the CDA program. Although our friendship began virtually, it had no impact on how real and true our friendship was. We were kindred spirits and I miss her terribly. A friendship that will last a life time.
+
+
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane

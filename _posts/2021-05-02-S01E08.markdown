@@ -1,0 +1,22 @@
+---
+title:        "Interview with Lisa Wilder"
+subtitle:     "S01E08"
+date:         "2021-05-02"
+keywords:
+-
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode we chat with Lisa Wilder!
+
+Lisa is a writer, graphic designer and artist living in Toronto with. She grew up in Ottawa and attended school in Vancouver. She is a volunteer with the Canadian Stuttering Association and has also shared her graphic design talents with the NLSA! Throughout the episode, Lisa and Greg discuss their mutual experiences with the CSA. Lisa also talks about her experiences as a person who stutters, touching on the topics of treatment of stuttering by SLPs, the need for stuttering awareness, and the emotional component and anxiety that accompanies stuttering. Lisa shares advice for PWS, specifically when dealing with anxiety, and also speaks about what sort of supports she would like to see implemented for PWS in the future.
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tKbqnyw9BHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu.
+<!--more-->
+Production Team: Dr. Paul De Decker, Greg O'Grady, Katelyn Mayo, Luca Dinu

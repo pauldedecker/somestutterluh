@@ -1,0 +1,22 @@
+---
+title:        "Interview with John Paskievich"
+subtitle:     "Season 2 Episode 6"
+date:         "2021-10-24"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn are chatting with John Paskievich!
+
+John is a filmmaker and person who stutters living in Manitoba. John produced the film Unspeakable, which examines the nature, history and treatment of stuttering. Paskievich says that "the film is a call for liberation, not from stuttering, but from the ignorance and stigma that surround it". Throughout this interview, John talks about Unspeakable and his experiences being a filmmaker who stutters. He also shares many stories about his life in general as a person who stutters and talks about working towards accepting his stutter. He talks about the emotional component of stuttering, the impact that it has had on his life, and some of the ways stuttering has presented him with difficulties throughout his life. Despite these obstacles, we can see that John has pushed through and made a name for himself as a successful filmmaker!
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-John-Paskievich-e1980cl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane

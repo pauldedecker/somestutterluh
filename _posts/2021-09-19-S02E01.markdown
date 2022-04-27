@@ -1,0 +1,21 @@
+---
+title:        "Interview with Dr. Gerald Maguire"
+subtitle:     "Season 2 Episode 1"
+date:         "2021-09-19"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Welcome to Season 2 of Some Stutter, Luh! We are beyond excited to be back for another season and to be kicking it off with such an incredible guest. Today, we are chatting with Dr. Gerald Maguire.
+
+Dr. Maguire is a professor and the Chair of Psychiatry and Neuroscience at the UCR School of Medicine. He is board certified by The American Board of Psychiatry and Neurology and is a Distinguished Fellow of the American Psychiatric Association and serves as the Chair of the National Stuttering Association. Dr. Maguire has been named as one of the Best Doctors in America every year since 2009 and is recognized as the world's authority on the medical treatment of stuttering. Throughout the episode Dr. Maguire discusses his research on drug therapies for stuttering, while, importantly, highlighting the fact that drug treatment and acceptance of stuttering can work together. All 3 discuss the importance of reducing stigma towards stuttering and address the importance of mental health awareness and resources for people who stutter. Drawing on his work in psychiatry, Dr. Maguire gives important advice to Katelyn and others working in the helping professions on how to be compassionate and empathetic. Finally, Dr. Maguire adds throughout this interview bits and pieces of his own experiences as a person who stutters, which has inspired and motivated his work!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMp2mWtGexs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane

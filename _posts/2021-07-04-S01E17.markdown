@@ -1,0 +1,23 @@
+---
+title:        "Interview with Dan Rossi"
+subtitle:     "S01E17"
+date:         "2021-07-04"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn chat with fellow podcaster Dan Rossi!
+
+Dan Rossi is a digital marketer and cartoonist living in Toronto, Canada. He is the host of the long-standing "Stuttering is Cool" podcast and author of the book "Stuttering is Cool" (which you can find for sale on Etsy)! Throughout the episode, Dan talks about his book and the creation of the character Franky Banky, a fox who stutters. In addition to sharing about his book, Dan talks about his own experiences as a person who stutters, discussing the concept of a confident stutter and how he become comfortable to stutter openly and accept his stutter. The group chats about toxic positivity, and how to look for the positives in a situation without invalidating others' negative experiences and emotions. Dan shares what he feels might be some of the advantages of having a stutter and also details some of the most rewarding parts of his work. Finally, all three chat a little about podcasting and Dan asks what "luh" means in the name "Some Stutter, Luh!".
+<!--more-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDucDmLmaZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Music: Luca Dinu.
+<!--more-->
+Production Team: Dr. Paul De Decker, Luca Dinu, Katelyn Mayo, Emily Murphy, Melanie Crane, Greg O'Grady.
+<!--more-->
+Check out Dan's work at his website ["Stuttering is Cool"](http://stutteringiscool.com/)

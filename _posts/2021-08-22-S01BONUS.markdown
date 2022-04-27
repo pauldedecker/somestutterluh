@@ -1,0 +1,21 @@
+---
+title:        "Interview with Margit Pukonen"
+subtitle:     "BONUS EPISODE"
+date:         "2021-08-22"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+For our dedicated listeners, we wanted to upload a bonus episode as a special surprise during our summer break! In this episode, we are chatting with Margit Pukonen!
+
+Margit is the Program Director at The Speech & Stuttering Institute.  She received her Master of Health Science degree in speech-language pathology from the University of Toronto and has worked at The SSI (formerly Speech Foundation of Ontario) since it opened its doors in the 1980s. Margit highlights here areas of experience throughout the interview, which are Motor Speech Disorders, a subtype of Speech Sound Disorder. She mentions that many years ago her area of “specialty” was group therapy with preschoolers, where she did a number of workshops on how to run group therapy programs with preschoolers who had speech and language difficulties. In this episode, Margit speaks about the history of the Speech and Stuttering Institute and details her time and roles at the SSI. Greg and Katelyn chat with Margit about other communication disorders, noticing and discussing parallels with the experience of those who stutter. They discuss how SSL can support a broader range of individuals with communication disorders, in addition to stuttering.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_GZBF175tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Katelyn Mayo, Luca Dinu, Dr. Paul De Decker, Greg O'Grady, Emily Murphy, Melanie Crane

@@ -1,0 +1,22 @@
+---
+title:        "Interview with Eddie Läck"
+subtitle:     "Season 2 Episode 5"
+date:         "2021-10-17"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+On today's episode, Greg and Katelyn are chatting with a very exciting guest, Eddie Läck!
+
+Eddie is a Swedish-born hockey player, and a former NHL goaltender. He spent many years playing hockey professionally before retiring due to an injury, and shifting his focus to both coaching and working in real estate. Something many hockey fans don't know about Eddie is that he is also a person who stutters. Throughout the interview, Eddie shares a little bit about what it was like to be a person who stutters in the public eye, and recalls some of the negative comments he received as a result. He speaks about learning to accept his stutter and about being open with his stuttering in the NHL, in the sports industry, and in life. All three discuss the importance of having positive role models for people who stutter, and Eddie shares a special story about a young fan who reached out to him because of his stutter! 
+
+<iframe src="https://anchor.fm/katelyn-mayo/embed/episodes/Interview-with-Eddie-Lck-e18ti82/a-a6nfo3h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<!--more-->
+Theme music: Luca Dinu.
+<!--more-->
+Production Team: Luca Dinu, Dr. Paul De Decker, Katelyn Mayo, Greg O'Grady, Melanie Crane
