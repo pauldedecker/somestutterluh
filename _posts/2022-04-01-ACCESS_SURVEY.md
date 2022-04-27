@@ -3,27 +3,20 @@ layout: post
 title: "Accessibility Survey"
 categories: Research
 ---
-Please read if one of the following describes you:
+You are invited to complete a survey about the accessibility of services for people who stutter (PWS) in Newfoundland and Labrador. This survey is conducted by The Communication Collaborative, which is a cross-sector group of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador.
 
-1. a person who stutter (PWS) in NL
-2. a parent or primary caregiver of a PWS in NL
-3. a speech-language pathologist in NL
-4. an educator in NL
+Please continue if you are:
 
-You are invited to complete a survey about the accessibility of services for people who stutter (PWS) in Newfoundland and Labrador. This survey is conducted by The Newfoundland and Labrador Stuttering Association Collaborative, which is a cross-sector group of people who stutter (PWS), members of provincial government, public-school teachers, early childhood educators, speech-language pathologists (S-LP), academics, university students, mental health professionals, disability advocates, and members of the Newfoundland and Labrador Stuttering Association (NLSA). We are all brought together around a common goal to address the current needs of people who stutter in Newfoundland and Labrador.
-
-We are looking to recruit:
-
-1. [people who stutter (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_1YnYI67ewFIF6XX)
-2. [parents or primary caregivers of (PWS)](https://mun.az1.qualtrics.com/jfe/form/SV_2643mGhjL1TAUUC)
-3. [speech-language pathologists](https://mun.az1.qualtrics.com/jfe/form/SV_2s0kxABfUQDjvIa)
-4. [educators](https://mun.az1.qualtrics.com/jfe/form/SV_71cWTwY4h0fPH38)
-
-Surveys take between 15 to 45 minutes to complete, depending on which category you fall into.
+1. [a person who stutters (PWS) living in Newfoundland or Labrador](https://mun.az1.qualtrics.com/jfe/form/SV_1YnYI67ewFIF6XX)
+2. [a parent or primary caregiver of a PWS living in NL](https://mun.az1.qualtrics.com/jfe/form/SV_2643mGhjL1TAUUC)
+3. [a speech-language pathologist working in NL](https://mun.az1.qualtrics.com/jfe/form/SV_2s0kxABfUQDjvIa)
+4. [an educator working in NL](https://mun.az1.qualtrics.com/jfe/form/SV_71cWTwY4h0fPH38)
 
 **If you identify as a member of one of these groups, and wish to take the survey, please click on the appropriate link in the list above to access the relevant survey page. Once there, follow the instructions to provide your informed consent and complete the survey.**
 
-Please note: we have received approval from the NLESD (Newfoundland and Labrador English School District) and our regional health authorities for their employees to complete these surveys.
+The survey takes between 15 to 45 minutes to complete, depending on which category you fall into.
+
+<b>Please note: we have received approval from the NLESD (Newfoundland and Labrador English School District) and our regional health authorities for their employees to complete these surveys.<b>
 
 If you would like further information before you decide to participate, please read the following or contact the Principal Investigator, Dr. Paul De Decker, at [paul DOT dd AT mun DOT ca].
 
@@ -59,7 +52,7 @@ Because of the methods used in this study, i.e. an online survey, no signed cons
 
 Data will be kept indefinitely but for a minimum of five years, as required by Memorial University’s policy on Integrity in Scholarly Research. The NLSA will have access to the summarized data in its aggregate form. Data collected from the survey will be used for stuttering advocacy by the NLSA and may be used for research analysis and/or output as presentations at scholarly conferences and publication in academic journals.
 
-We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [nlsacollaborative.ca](http://nlsacollaborative.ca/).
+We will produce a final report that highlights any significant findings from the survey. Where appropriate, we may paraphrase information shared with us through the survey. This report will be publicly available and accessible from the project webpage at [somestutterluh.ca](http://somestutterluh.ca/).
 
 **What else should I know?**
 
