@@ -9,11 +9,11 @@ Follow us on [Instagram](https://www.instagram.com/somestutterpodcast/) and TikT
 <h2>News</h2>
 Season 3 starts May 8! Greg talks to: <br>
 <br>
-Casey, a gay person who stutters and a Speech-Language Pathologist,<br>
-Janet, a Speech-Language Pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA),<br>
-Jesse, an Associate Professor of Linguistics at the University of California, Los Angeles.  His academic research focuses on how adults perceive and interpret language in moment-by-moment comprehension,<br>
-Jessica, a young entrepreneur and person who stutters, who seeks to establish a Not For Profit Foundation to help raise money for people who stutter that  cannot afford speech therapy,<br>
-Robert, author of his book, Just One More Drive: The true story of a stuttering homosexual and his race car to help others dealing with issues around mental health and acceptance<br><br>
+<b>Casey</b>, a gay person who stutters and a Speech-Language Pathologist,<br>
+<b>Janet</b>, a Speech-Language Pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA),<br>
+<b>Jesse</b>, an Associate Professor of Linguistics at the University of California, Los Angeles.  His academic research focuses on how adults perceive and interpret language in moment-by-moment comprehension,<br>
+<b>Jessica</b>, a young entrepreneur and person who stutters, who seeks to establish a Not For Profit Foundation to help raise money for people who stutter that  cannot afford speech therapy,<br>
+<b>Robert</b>, author of his book, Just One More Drive: The True Story of a Stuttering Homosexual and His Race Car to help others dealing with issues around mental health and acceptance<br><br>
 ...and many more informative and fun SSL! episodes.
 
 <h2>How to listen, watch, or read along</h2>
