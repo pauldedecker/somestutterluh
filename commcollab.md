@@ -6,6 +6,15 @@ The Communication Collaborative is a research group in solidarity with The Newfo
 We are people who stutter (PWS), members of provincial government, members of the public, educators, speech-language pathologists, academic researchers, university students, mental health professionals, disability advocates, and NLSA members.
 For more information about the NLSA - which is dedicated to advocacy and support for people who stutter - please visit their <a href="http://nlstuttering.ca">website</a>.
 
+Our collaborators will continue to: <br>
+<br>
+1. learn about stuttering research and how it could be used for NLSA advocacy
+2. implement ways to leverage support from public and private agencies
+3. participate in research (e.g. to study / recognize deficits in the province’s programs and services for PWS)
+4. promote cross-discipline research at Memorial University
+5. provide learning experiences for both undergraduate and graduate students attending Memorial, and MUN alumni (e.g. speech-language pathology students who are attending graduate schools out of province).
+
+
 <h3>Current Projects</h3>
 Some Stutter, Luh!<br>
 The Science of Stuttering: an open educational resource<br>
