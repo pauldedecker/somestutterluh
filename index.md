@@ -2,9 +2,19 @@
 layout: default
 ---
 <h2>Welcome</h2>
-Join host, Greg O'Grady, and his guests for a weekly dose of speech, language and what it's like to live with a communication impairment. Some Stutter, Luh! is Newfoundland and Labrador's first podcast about living with communication differences. We speak directly to people living with speech and language challenges, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers.
+Join host, Greg O'Grady, and his guests for a weekly dose of speech, language and what it's like to live with a communication impairment. <i>Some Stutter, Luh!</i> is Newfoundland and Labrador's first podcast about living with communication differences. We speak directly to people living with speech and language challenges, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers.
+
 <br>
 Follow us on [Instagram](https://www.instagram.com/somestutterpodcast/) and TikTok (coming soon) for the latest news and discussions.
+
+<h2>About the name</h2>
+<i>Some Stutter, Luh!</i> is a name that makes use of Newfoundland English and has a double meaning.
+
+The phrase "Some stutter" can be either a sentence meaning "Some people stutter," or an exclamation meaning "That's some stutter!" or "That's a magnificent stutter!"
+
+"Luh" is a word that is used in Newfoundland English at the end of sentences to draw the listener's attention to something, and is roughly equivalent to "Hey" or "Look!"
+
+Combining these two elements, <i>Some Stutter, Luh!</i> can mean either "Hey, some people stutter!" or "Hey, that's a great stutter!"
 
 <h2>News</h2>
 Season 3 starts May 8! Greg talks to: <br>
