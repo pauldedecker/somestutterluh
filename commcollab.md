@@ -26,16 +26,17 @@ Sociolinguistics & Communication Disorders<br>
 Getting the Words Out
 
 <h2>We gratefully acknowledge our funding partners</h2>
-Office of Public Engagement: Quick Start Funding & Accelerator Grant<br>
-The J.R. Smallwood Foundation Research Grant<br>
-The Undergraduate Student Summer Internship Program<br>
-Graduate Student Work Experience Program<br>
-Memorial Undergraduate Career Experience Program<br>
+Memorial University's [Office of Public Engagement](https://www.mun.ca/publicengagement/): [Quick Start Funding](https://www.mun.ca/publicengagement/funding/quickstartfund.php) & [Accelerator Grant](https://www.mun.ca/publicengagement/funding/accelerator.php)<br>
+The [J.R. Smallwood Foundation Research Grant](https://www.mun.ca/smallwood/grants/research_grant.php)<br>
+The [Undergraduate Student Summer Internship Program](https://research-tools.mun.ca/funding/opportunities/university-student-summer-internship-program-ussip-2022-2023/)<br>
+[Graduate Student Work Experience Program](https://www.mun.ca/student/career-services/build-work-experience/work-on-campus/grad-student-work-experience-program---gradswep/)<br>
+[Memorial Undergraduate Career Experience Program](https://www.mun.ca/student/career-services/build-work-experience/work-on-campus/memorials-undergraduate-career-experience-program/)<br>
 
 <h2>With in-kind assistance from</h2>
-Cranky Goat Entertainment<br>
-The Newfoundland and Labrador Stuttering Association<br>
-Newfoundland and Labrador Association of Speech-Language Pathologists and Audiologists<br>
+[Cranky Goat Entertainment](https://crankygoatentertainment.ca/)<br>
+[The Newfoundland and Labrador Stuttering Association](http://nlstuttering.ca/)<br>
+[Newfoundland and Labrador Association of Speech-Language Pathologists and Audiologists](https://nlaslpa.ca/)<br>
 
 
-<h2>News & Blog</h2>
+<h2>News and Blog</h2>
+Coming soon: Some Stutter, Luh! will have a blog, [available here](blog).
