@@ -4,7 +4,8 @@ layout: default
 <h2>Welcome</h2>
 Join host, Greg O'Grady, and his guests for a weekly dose of speech, language and what it's like to live with a communication impairment. Some Stutter, Luh! is Newfoundland and Labrador's first podcast about living with communication differences. We speak directly to people living with speech and language challenges, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers. <BR>
 <BR>
-[Users/pauldedecker/Dropbox/GitHub/somestutterluh/assets/img/IG-glyph-logo_May2016.png](https://www.instagram.com/somestutterpodcast/)<BR><BR> To contact us, click [here](mailto:info@somestutterluh.ca).
+[/assets/img/IG-glyph-logo_May2016.png](https://www.instagram.com/somestutterpodcast/)<BR><BR>
+To contact us, click [here](mailto:info@somestutterluh.ca).
 
 <h2>If you live in NL...</h2>
 ...and have experience with stuttering or a person who stutters, we would love to hear from you - please take our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md)
