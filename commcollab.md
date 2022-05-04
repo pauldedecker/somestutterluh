@@ -16,10 +16,10 @@ Our collaborators will continue to: <br>
 
 
 <h3>Current Projects</h3>
-Some Stutter, Luh!<br>
+[Some Stutter, Luh!](https://somestutterluh.ca)<br>
+[Accessibility surveys](2022-04-01-ACCESS_SURVEY.md)<br>
 The Science of Stuttering: an open educational resource<br>
 A Short Film About Discommunication<br>
-Accessibility surveys<br>
 Sociolinguistics & Communication Disorders<br>
 
 <h3>Completed Projects</h3>
