@@ -3,11 +3,12 @@ layout: default
 ---
 <h2>Welcome</h2>
 Join host, Greg O'Grady, and his guests for a weekly dose of speech, language and what it's like to live with a communication impairment. Some Stutter, Luh! is Newfoundland and Labrador's first podcast about living with communication differences. We speak directly to people living with speech and language challenges, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers. <BR><BR>
-[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)<BR>@somestutterpodcast<BR><BR>
-To contact us, click [here](mailto:info@somestutterluh.ca).
 
-<h2>If you live in NL...</h2>
-...and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) would love to hear from you - please take our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
+<h2>How to listen, watch, or read along</h2>
+Subscribe to Some Stutter, Luh! through [Apple Podcasts](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==), or [Anchor](https://anchor.fm/somestutterluh) or listen to individual episodes through this website by clicking below. We also feature [Youtube versions of all episodes](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) which include a "closed captioning" option that you can use to follow along with while listening.
+
+<h2>Episodes</h2>
+{% include navigation.html %}
 
 <h2>News</h2>
 Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow along as Greg talks to: <br>
@@ -19,9 +20,8 @@ Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow a
 <b>Robert</b>, author of his book, Just One More Drive: The True Story of a Stuttering Homosexual and His Race Car to help others dealing with issues around mental health and acceptance<br><br>
 ...and many more informative and fun SSL! episodes.
 
-<h2>How to listen, watch, or read along</h2>
-Subscribe to Some Stutter, Luh! through [Apple Podcasts](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==), or [Anchor](https://anchor.fm/somestutterluh) or listen to individual episodes through this website by clicking below. We also feature [Youtube versions of all episodes](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) which include a "closed captioning" option that you can use to follow along with while listening.
+<h2>If you live in NL...</h2>
+...and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) would love to hear from you - please take our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
 
-<h2>Episodes</h2>
-
-{% include navigation.html %}
+[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)<BR>@somestutterpodcast<BR><BR>
+To contact us, click [here](mailto:info@somestutterluh.ca).
