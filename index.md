@@ -7,7 +7,7 @@ Join host, Greg O'Grady, and his guests for a weekly dose of speech, language an
 To contact us, click [here](mailto:info@somestutterluh.ca).
 
 <h2>If you live in NL...</h2>
-...and have experience with stuttering or a person who stutters, we would love to hear from you - please take our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md)
+...and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) would love to hear from you - please take our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
 
 <h2>News</h2>
 Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow along as Greg talks to: <br>
