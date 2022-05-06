@@ -9,9 +9,9 @@ Each and every episode is available by scrolling down to Episodes below. Or subs
 
 [<img src="/assets/img/Apple_Podcast_Icon.png" width="25%" height="25%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)
 
-[<img src="/assets/img/EN_Google_Podcasts_Badge_2x.png width="25%" height="25%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)
+[<img src="/assets/img/EN_Google_Podcasts_Badge_2x.png" width="25%" height="25%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)
 
-[<img src="/assets/img/Spotify_Logo_CMYK_Black.pngwidth="25%" height="25%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)
+[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="25%" height="25%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)
 
 Check out our [Youtube channel](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) for a "closed captioning" option that you can use to follow along with while listening.
 
