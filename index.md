@@ -28,8 +28,7 @@ Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow a
 {% include navigation.html %}
 
 <h2>Follow Us</h2>
-[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)<BR>@somestutterpodcast
-(TikTok Coming Soon)
+|[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)|[TikTok](https://www.tiktok.com/@somestutterluh)|
 <BR><BR>
 
 For general inquiries about this podcast, click [here](mailto:info@somestutterluh.ca).<BR>
