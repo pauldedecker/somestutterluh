@@ -7,7 +7,7 @@ Join host, Greg O'Grady, and his guests for a weekly dose of speech, language an
 <h2>How to listen, watch, or read along</h2>
 Each and every episode is available by scrolling down to Episodes below. Or subscribe via the following. <BR>
 
-[<img src="/assets/img/Apple_Podcast_Icon.png" width="25%" height="25%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)
+[<img src="/assets/img/Apple_Podcast_Icon.png" width="15%" height="15%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)
 
 [<img src="/assets/img/EN_Google_Podcasts_Badge_2x.png" width="25%" height="25%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)
 
