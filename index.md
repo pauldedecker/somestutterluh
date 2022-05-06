@@ -10,7 +10,7 @@ Each and every episode is available by scrolling down to Episodes below. Or subs
 [<img src="/assets/assets/img/EN_Google_Podcasts_Badge_2x.png width="25%" height="25%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)
 [<img src="/assets/img/Spotify_Logo_CMYK_Black.pngwidth="25%" height="25%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)
 
-We also feature [Youtube versions of all episodes](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) which include a "closed captioning" option that you can use to follow along with while listening.
+Check out our [Youtube channel](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) for a "closed captioning" option that you can use to follow along with while listening.
 
 <h2>A note from the Communication Collaborative</h2>
 If you live in NL and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) invites you to complete our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
