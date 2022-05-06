@@ -1,0 +1,19 @@
+---
+title:        "Interview with Casey Dumaresq"
+subtitle:     "Season 3 Episode 01"
+date:         "2022-05-08"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+In our first episode of season 3, Greg speaks to Casey Dumaresq about his most fluent and severe phases of stuttering, the exact moment when he felt that he had a speaking challenge for the first time, and why he was not diagnosed with a fluency disorder. He also discusses careers that a person who stutters might pursue. All this and much more!
+
+Casey Dumaresq is a gay person who stutters and a Speech-Language Pathologist. Casey grew up in rural New Brunswick, and went to graduate school in Halifax. He now lives in Toronto with his husband. Casey leads a stuttering support group in downtown Toronto (currently on pause due to the Covid-19 pandemic), and previously served on the Board of Directors of the Canadian Stuttering Association. These days, Casey finds himself in a mostly-fluent phase of life, and looks forward to discussing his current place in the stuttering community.
+
+Listen to this episode on Sunday, May 8, at [9:00am Newfoundland Time](https://www.timeanddate.com/worldclock/canada/st-johns).
+
+Theme music: Luca Dinu. Production Team: Luca Dinu, Dr. Paul De Decker, Greg O'Grady, Leah Bugden, and Aleisha Meggison.
