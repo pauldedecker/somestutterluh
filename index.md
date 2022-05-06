@@ -29,4 +29,4 @@ Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow a
 <BR><BR>
 
 For general inquiries about this podcast, click [here](mailto:info@somestutterluh.ca).<BR>
-If you are person who stutters or lives with a communication challenge, or a parent / caregiver of someone who does, a speech-language pathologist, communication researcher, ally or a health care professional interested in being a guest on Some Stutter, Luh!, please [get in touch with our team] (mailto:info@somestutterluh.ca).
+If you are person who stutters or lives with a communication challenge, or a parent / caregiver of someone who does, a speech-language pathologist, communication researcher, ally or a health care professional interested in being a guest on Some Stutter, Luh!, please [get in touch with our team](mailto:info@somestutterluh.ca).
