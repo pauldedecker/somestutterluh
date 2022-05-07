@@ -4,7 +4,7 @@ layout: default
 <h2>A note from the Communication Collaborative</h2>
 If you live in NL and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) invites you to complete our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
 
-<h2>Watch, listen, or read along</h2>
+<h2>Subscribe, watch, listen, or read along</h2>
 |[<img src="/assets/img/yt_logo_mono_light.png" width="35%" height="35%"/>](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos)
 |[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png" width="35%" height="35%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)|<BR>
 |[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="35%" height="35%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)|[<img src="/assets/img/Apple_Podcast_Icon.png" width="15%" height="15%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)|<BR>
@@ -21,9 +21,8 @@ Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow a
 <h2>Episodes</h2>
 {% include navigation.html %}
 
-<h2>Subscribe</h2>
+<h2>Like and Share!</h2>
 |[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)|[TikTok](https://www.tiktok.com/@somestutterluh)|
-<BR><BR>
-
+<BR>
 For general inquiries about this podcast, click [here](mailto:info@somestutterluh.ca).<BR>
 If you are person who stutters or lives with a communication challenge, or a parent / caregiver of someone who does, a speech-language pathologist, communication researcher, ally or a health care professional interested in being a guest on Some Stutter, Luh!, please [get in touch with our team](mailto:info@somestutterluh.ca).
