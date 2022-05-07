@@ -3,7 +3,7 @@ description: The Communication Collaborative is a research group in solidarity w
 author: by The Communication Collaborative
 email: info@somestutterluh.ca
 lang: en-us
-copyright: "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 logo: /assets/img/SSL-logo-season3.png
 minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # baseurl: "" # the subpath of your site, e.g. /blog
