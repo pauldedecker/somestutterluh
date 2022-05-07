@@ -8,14 +8,7 @@ If you live in NL and have experience with stuttering or a person who stutters, 
 Join host, Greg O'Grady, and his guests for a weekly dose of speech, language and what it's like to live with a communication impairment. Some Stutter, Luh! is Newfoundland and Labrador's first podcast about living with communication differences. We speak directly to people living with speech and language challenges, and others such as speech language pathologists, researchers, educators and family members. We use inclusive language and themes to help rebuild confidence and hope by dismantling myths, stigma, stereotypes and barriers.
 
 <h2>Watch, listen, or read along</h2>
-Every episode is available on this page under Episodes.
-
-Our [Youtube channel](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos) features video of the podcast and "closed captioning" option to read along with while listening.
-
-Please subscribe to receive weekly updates: <BR>
-
-|[<img src="/assets/img/Apple_Podcast_Icon.png">](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)|[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)|[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="75%" height="75%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)|[<img src="/assets/img/yt_logo_mono_light.png" width="75%" height="75%"/>](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos)|
-
+|[<img src="/assets/img/yt_logo_mono_light.png">](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos)|[<img src="/assets/img/Apple_Podcast_Icon.png">](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)|[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)|[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="75%" height="75%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)|
 
 <h2>News</h2>
 Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow along as Greg talks to: <br>
