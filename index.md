@@ -9,9 +9,9 @@ If you live in NL and have experience with stuttering or a person who stutters, 
 |[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png" width="35%" height="35%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)|<BR>
 |[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="35%" height="35%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)|[<img src="/assets/img/Apple_Podcast_Icon.png" width="15%" height="15%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)|<BR>
 
-Mark your calendars! Ready your podcast players! Season 3 starts May 8! Follow along as Greg talks to: <br>
+Ready your podcast players! We are back with Season 3. Follow along as Greg talks to: <br>
 <br>
-<b>Casey</b>: a gay person who stutters and a Speech-Language Pathologist,<br>
+<b>[Casey](_posts/2022-05-08-S03E01.markdown)</b>: a gay person who stutters and a Speech-Language Pathologist,<br>
 <b>Janet</b>: a Speech-Language Pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA),<br>
 <b>Jesse</b>: an Associate Professor of Linguistics at the University of California, Los Angeles.  His academic research focuses on how adults perceive and interpret language in moment-by-moment comprehension,<br>
 <b>Jessica</b>: a young entrepreneur and person who stutters, who seeks to establish a Not For Profit Foundation to help raise money for people who stutter that  cannot afford speech therapy,<br>
