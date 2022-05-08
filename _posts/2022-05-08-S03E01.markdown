@@ -1,7 +1,7 @@
 ---
 title:        "Interview with Casey Dumaresq"
 subtitle:     "Season 3 Episode 01"
-date:         "2022-05-05"
+date:         "2022-05-08"
 keywords:
 mp3-url:      ""
 episode-type: "full" #"trailer"
