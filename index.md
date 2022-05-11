@@ -21,13 +21,13 @@ Ready your podcast players! We are back with Season 3. Follow along as Greg talk
 {% include navigation.html %}
 
 <h2>Like and Share!</h2>
-|[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)|[TikTok](https://www.tiktok.com/@somestutterluh)|
+[<img src="/assets/img/IG-glyph-logo_May2016.png" width="25%" height="25%"/>](https://www.instagram.com/somestutterpodcast/)
+<BR>
+[TikTok](https://www.tiktok.com/@somestutterluh)
 <BR><BR>
 For general inquiries about this podcast, click [here](mailto:info@somestutterluh.ca).<BR>
 If you are person who stutters or lives with a communication challenge, or a parent / caregiver of someone who does, a speech-language pathologist, communication researcher, ally or a health care professional interested in being a guest on Some Stutter, Luh!, please [get in touch with our team](mailto:info@somestutterluh.ca).
-
 <BR>
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
