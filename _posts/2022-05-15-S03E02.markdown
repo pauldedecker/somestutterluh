@@ -1,0 +1,16 @@
+---
+title:        "Interview with Janet Tilstra"
+subtitle:     "Season 3 Episode 02"
+date:         "2022-05-15"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+Janet Tilstra is a Speech-Language Pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA).<BR><BR>
+
+This episode airs on Sunday morning, May 15, at 9am Newfoundland Time.
