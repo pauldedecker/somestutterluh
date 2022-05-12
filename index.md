@@ -5,9 +5,9 @@ layout: default
 If you live in NL and have experience with stuttering or a person who stutters, the [Communication Collaborative](commcollab.md) invites you to complete our [Accessibility to Services Survey](2022-04-01-ACCESS_SURVEY.md).
 
 <h2>Subscribe, watch, listen, or read along</h2>
-[<img src="/assets/img/yt_logo_mono_light.png" width="35%" height="35%"/>](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos)
-[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png" width="35%" height="35%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)<BR>
-[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="35%" height="35%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)[<img src="/assets/img/Apple_Podcast_Icon.png" width="15%" height="15%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)<BR>
+[<img src="/assets/img/yt_logo_mono_light.png" width="35%" height="35%"/>](https://www.youtube.com/channel/UCOb69ZcBjY0-BGgPlhCCcvg/videos)<BR><BR>
+[<img src="/assets/img/EN_Google_Podcasts_Badge_8x.png" width="35%" height="35%"/>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZDk5ZjhhYy9wb2RjYXN0L3Jzcw==)<BR><BR>
+[<img src="/assets/img/Spotify_Logo_CMYK_Black.png" width="35%" height="35%"/>](https://open.spotify.com/show/5f9V7PkdfcPPOBSc7WNsBf?si=cf2c9fe7d3b64c4c)<BR><BR>[<img src="/assets/img/Apple_Podcast_Icon.png" width="15%" height="15%"/>](https://podcasts.apple.com/us/podcast/some-stutter-luh/id1554770147)<BR><BR>
 
 Ready your podcast players! We are back with Season 3. Follow along as Greg talks to: <br>
 <br>
