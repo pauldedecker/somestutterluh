@@ -10,7 +10,10 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
+In this episode Greg has an exciting and informative conversation with Dr. Janet Tilstra, PhD CCC-SLP. During their conversation, they discuss Dr. TIlstra's article,  From Speech Helper to Ally. This article recognizes the need for developing a greater understanding of the psychological effects and emotions associated with communication disorders in order to encourage professionals in the field to incorporate counselling strategies in their clinical interactions. This article identifies a stuttering paradigm shift from a clinical focus to ally: a clinician changes her own perceptions of speech fluency and encourages others to re-examine theirs.
 
-Janet Tilstra is a Speech-Language Pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA).<BR><BR>
+Dr. Tilstra is a speech-language pathologist and Associate Professor in the Department of Communication Disorders at St Cloud State University, St Cloud, Minnesota (USA). She completed her undergraduate and Master’s degree in speech-language pathology at the University of Iowa and PhD in educational psychology at the University of Minnesota.  Dr. Tilstra teaches undergraduate and graduate courses on stuttering, language development/disorders and research methods. She is an active clinical supervisor and passionate ally dedicated to amplifying the voices of people living with communication differences and disorders. She enjoys mentoring students, consulting with non-profit agencies, and designing innovative training models.
 
-This episode airs on Sunday morning, May 15, at 9am Newfoundland Time.
+Enjoy their conversation.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Janet-Tilstra-e1ig8v4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
