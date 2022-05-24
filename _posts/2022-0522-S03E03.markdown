@@ -16,4 +16,4 @@ Dr. Jesse Harris is an associate professor at [UCLA in the Department of Linguis
 
 Enjoy their conversation.
 
-This episode airs on Sunday morning, May 22, at 9am Newfoundland Time. Newfoundland Time, is that a real thing? Yes. [We've got our own time zone](https://www.timeanddate.com/worldclock/canada/st-johns).
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Dr--Jesse-Harris-e1injqm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
