@@ -1,0 +1,13 @@
+---
+title:        "Interview with Jessica Deluce"
+subtitle:     "Season 3 Episode 04"
+date:         "2022-05-29"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+This episode airs on Sunday morning (May 29) @ 9am Newfoundland Time. Newfoundland Time, is that a real thing? Yes. We've got our own time zone.
