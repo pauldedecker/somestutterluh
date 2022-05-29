@@ -10,4 +10,5 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-This episode airs on Sunday morning (May 29) @ 9am Newfoundland Time. Newfoundland Time, is that a real thing? Yes. We've got our own time zone.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Jessica-Deluce-e1j6vns" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
