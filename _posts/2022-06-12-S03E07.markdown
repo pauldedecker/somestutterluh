@@ -1,0 +1,16 @@
+---
+title:        "Stuttering, Mental Health and Self Care"
+subtitle:     "Season 3 Episode 07"
+date:         "2022-06-19"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Stuttering--Mental-Health--and-Self-Care-e1k5ahp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+In this week's episode, Jessica Deluce and Paige Smith return to chat with Greg about the importance of taking care of yourself. 
