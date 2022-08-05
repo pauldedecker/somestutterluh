@@ -1,0 +1,19 @@
+---
+title:        "Interview with Mary Wood"
+subtitle:     "Season 3 Episode 09"
+date:         "2022-08-07"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+
+After a short summer hiatus, we are back with Mary Wood, who, after her first interview with Greg, published her first book [Beyond the Fear of Stuttering: My Journey to Self-Acceptance and Freedom](https://read.amazon.ca/kp/embed?asin=B09VF4ZQFP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_VT6KHWATT6SP1Z6YN56K).
+
+Join Greg and Mary as they talk about the wonderful life lessons Mary shares in the book, including the powerful role of thought in controlling behaviour as well as what it takes to overcome fear and rejection. Mary challenges us to change our perspectives on how we approach stuttering (she sees it as a GIFT) and discusses her belief that it's not up to others to determine who we are. As a pastor in the Unity Church, Mary reflects on the role of spirituality in stuttering support - forgiveness and gratitude - and how there is so much more to people who stutter than simply stuttering.
+
+Since 1993, Mary has inspired people at conferences in Canada, the United States, parts of Europe, and Great Britain. Currently Mary resides in Lee’s Summit Missouri, USA.
