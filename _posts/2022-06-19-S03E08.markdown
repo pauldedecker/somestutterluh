@@ -11,6 +11,6 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 
-<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Jenny-McGuire-e1kd5u7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+Jenny was a recent guest on SSL! [(S3E5)](2022-06-05-S03E05.markdown) where she was joined by two of her colleagues from My Speech to discus the great work that this amazing organization is doing. During that conversation, Greg managed to get a glimpse of Jenny's lived experience as a person who stutters. So, to find out more about Jenny's story, Greg thought a SSL! Guest revisit was in order. Listen to this wonderful conversation and see why Greg was touched by the commitment and work that Jenny has placed on her self care journey to accept and embrace her stutter.
 
-Jenny was recent guest on SSL! [(S3E5)](2022-06-05-S03E05.markdown) where she was joined by two of her colleagues from My Speech to discus the great work that this amazing organization is doing. During that conversation, Greg managed to get a glimpse of Jenny's lived experience as a person who stutters. So, to find out more about Jenny's story, Greg thought a SSL! Guest revisit was in order. Listen to this wonderful conversation and see why Greg was touched by the commitment and work that Jenny has placed on her self care journey to accept and embrace her stutter.
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Jenny-McGuire-e1kd5u7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

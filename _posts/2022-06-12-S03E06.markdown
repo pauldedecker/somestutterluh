@@ -11,11 +11,10 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 
-<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Dr--Samantha-Shune-and-Michele-Vandehey-e1jreb8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-
 In this week's episode, Greg talks to Dr. Samantha Shune and Michele Vandehey about dysphagia.
 
 Dr. Samantha Shune is an associate professor and the director of the Communication Disorders and Sciences Program at the University of Oregon. Prior to returning to school for her PhD and throughout her doctoral program, she worked as a speech-language pathologist across a number of healthcare settings. Her primary area of interest is dysphagia, particularly in terms of exploring the impact of disruptions to the eating and swallowing process on the individual and their family system.
 
 Michele Vandehey, MS, CCC-SLP, is a clinical supervisor for graduate student clinicians at the University of Oregon in the Brain Injury and Concussion Clinic. Michele also continues to work in the medical setting, specifically acute care, and inpatient rehabilitation as a medical speech-language pathologist. She completed her coursework and thesis in dysphagia at Idaho State University. She is also the daughter of a stroke survivor who experienced severe dysphagia, and cognitive- communication deficits who she provided support to within the home and community for nearly 20 years. Her clinical and research interests primarily center on identifying dysphagia and its impact on individuals and their families, including how to foster improved functional outcomes.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Dr--Samantha-Shune-and-Michele-Vandehey-e1jreb8" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

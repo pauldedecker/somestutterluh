@@ -11,8 +11,7 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 
+
+In this week's episode, Greg talks to Nathan Mallipeddi, Jenny McGuire, and Nikhil Bilkha from [MySpeechApp.org](http://www.myspeechapp.org) (previously known as the Stuttering Scholarship Alliance)! They have built a digital resource platform enabling people who stutter to access affordable speech therapy and community support. Their work has been celebrated by US President Joe Biden.
+
 <iframe src="https://anchor.fm/somestutterluh/embed/episodes/My-Speech-App-formerly-Stuttering-Scholarship-Alliance-e1jhacc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-My Speech App (formerly Stuttering Scholarship Alliance)
-
-In this week's episode, Greg talks to Nathan Mallipeddi, Jenny McGuire, and Nikhil Bilkha from MySpeechApp.org (previously known as the Stuttering Scholarship Alliance)! They have built a digital resource platform enabling people who stutter to access affordable speech therapy and community support. Their work has been celebrated by US President Joe Biden.

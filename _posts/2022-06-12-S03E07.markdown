@@ -11,6 +11,6 @@ layout: podcast
 excerpt_separator: <!--more-->
 ---
 
-<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Stuttering--Mental-Health--and-Self-Care-e1k5ahp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+In this week's episode, Jessica Deluce and Paige Smith return to chat with Greg about the importance of taking care of yourself.
 
-In this week's episode, Jessica Deluce and Paige Smith return to chat with Greg about the importance of taking care of yourself. 
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Stuttering--Mental-Health--and-Self-Care-e1k5ahp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
