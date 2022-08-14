@@ -10,6 +10,6 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Despite discovering his stutter in the second grade, Nikhil never fully participated in any formal speech therapy until his mid-30s. He is a pharmacist by trade and serves as the National Program Manager for the Emergency Pharmacy Service in the USA. Nikhil is the Chief Operating Office of (My Speech App)[http://wwww.myspeechapp.org] where he has found a new path forward on his journey towards acceptance.
+Despite discovering his stutter in the second grade, Nikhil never fully participated in any formal speech therapy until his mid-30s. He is a pharmacist by trade and serves as the National Program Manager for the Emergency Pharmacy Service in the USA. Nikhil is the Chief Operating Office of [My Speech App](http://www.myspeechapp.org) where he has found a new path forward on his journey towards acceptance.
 
 <iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Nikhil-Bilkha-e1mg9gj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
