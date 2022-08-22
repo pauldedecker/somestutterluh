@@ -1,0 +1,15 @@
+---
+title:        "Interview with Susan Khaladkar"
+subtitle:     "Season 3 Episode 11"
+date:         "2022-08-21"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Susan joins us to day to help create awareness, education, understanding and acceptance about the Deaf community, their communication challenges associated with being Deaf, and to honour the memory of her brother Robert, now deceased, by sharing of his lived experiences as a Deaf individual.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Susan-Khaladkar-e1mpgn7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
