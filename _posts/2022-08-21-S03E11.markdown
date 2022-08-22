@@ -10,6 +10,11 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Susan joins us to day to help create awareness, education, understanding and acceptance about the Deaf community, their communication challenges associated with being Deaf, and to honour the memory of her brother Robert, now deceased, by sharing of his lived experiences as a Deaf individual.
+In this episode Greg speaks with Susan Rockwood Khaladkar. Susan is a strong advocate and ally of the Deaf community, promoting awareness, education, understanding and acceptance of the Deaf community, their communication challenges associated with being Deaf.  In this episode, Susan also honours the memory of her deceased brother Robert by sharing of his lived experiences as a Deaf individual.
+
+Susan is a senior citizen who worked in public affairs and marketing and communications for 30 years. She was born and raised in Newfoundland but spent most of her working life in Saskatchewan. Susan and her husband moved to Sunnyside in 2008 where dhe served as a town councilor for eight years. They moved to the St. John’s area in 2017.
+
+Thank you Susan for an informative and inspirational SSL! Conversation.
+
 
 <iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Susan-Khaladkar-e1mpgn7" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
