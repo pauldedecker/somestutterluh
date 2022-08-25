@@ -1,0 +1,19 @@
+---
+title:        "Interview with Tom Scharstein"
+subtitle:     "Season 3 Episode 12"
+date:         "2022-08-29"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Tom Scharstein is a person who stutters and an entrepreneur from South Florida, USA. Taking full advantage of the changing times with the new dependence on virtual connection, he and a team of innovators created the World Stuttering Network (WSN) in 2020. The mission of the WSN is to create a discussion among the world's stuttering support leaders to share helpful information & best practices to provide the best help for people who stutter globally. The WSN hosts the annual 'StutterFEST!', a 24-hour celebration of the world stuttering community. Guests and organizations from around the world present on multiple virtual stages throughout the day, allowing attendees from every time zone to attend.
+
+Tom's life journey with stuttering has included over 25 years in stuttering support, mostly as a support group leader. 3 out of his 4 household family members stutter, which makes the family dynamic very interesting, as each person stutters & deals with their stutter differently.
+
+Lisa & Tom are avid outdoor enthusiasts, and are often found paddling around Florida on the weekends.
+
+This episode airs on Sunday morning, August 28, at 9am Newfoundland Time.
