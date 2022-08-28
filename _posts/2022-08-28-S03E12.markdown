@@ -1,7 +1,7 @@
 ---
 title:        "Interview with Tom Scharstein"
 subtitle:     "Season 3 Episode 12"
-date:         "2022-08-25"
+date:         "2022-08-28"
 keywords:
 mp3-url:      ""
 episode-type: "full" #"trailer"
@@ -16,4 +16,4 @@ Tom's life journey with stuttering has included over 25 years in stuttering supp
 
 Lisa & Tom are avid outdoor enthusiasts, and are often found paddling around Florida on the weekends.
 
-This episode airs on Sunday morning, August 28, at 9am Newfoundland Time.
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Tom-Scharstein-e1mv6d9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
