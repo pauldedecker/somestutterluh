@@ -10,4 +10,6 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-This episode airs Sunday, September 4th at 9AM Newfoundland Time. 
+Robert O’Brien started stuttering from the age of 8 and struggled with his speech into his adult years, discovering speech therapy, Toastmasters and eventually acting school in Vancouver BC. At the same time, he was dealing with being gay and hiding his sexuality until finally coming out at the age of 32. His focus throughout was to “fix” himself. After a failed suicide attempt, he was inspired to write a memoir called Just One More Drive: The true story of a stuttering homosexual and his race car to help others dealing with issues around mental health and acceptance. His book is on sale globally and he has given various workshops sharing his experiences. He currently resides in Vancouver, BC working as a teacher and co-instructor for “The Unblockables”, an improv acting course for people who stutter with Tightrope Theatre.
+
+This episode airs on [Anchor](https://anchor.fm/somestutterluh) this Sunday, September 4th at 9AM Newfoundland Time. 
