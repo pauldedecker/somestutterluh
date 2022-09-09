@@ -1,0 +1,15 @@
+---
+title:        "Interview with Kim Block"
+subtitle:     "Season 3 Episode 14"
+date:         "2022-09-09"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+In this episode Greg speaks with Kim Block, a full-time student at Simon Fraser University completing a degree in Criminology with a certificate in Social Justice. Kim is a person who stutters and has been involved in the stuttering community for over twenty years. She runs the website [Speaking Up](http://www.speakingupbc.com/]) and is author of the children’s book series [Adventures of a Stuttering Superhero](http://www.stutteringadventures.com/).
+
+This episode airs Sunday morning, September 11, at 9am Newfoundland Time on [Anchor](https://anchor.fm/somestutterluh). 
