@@ -1,0 +1,15 @@
+---
+title:        "Interview with Caroline Bredeson and Julie Rodrigue"
+subtitle:     "Season 3 Episode 15"
+date:         "2022-09-18"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+In this episode Greg speaks with Caroline Bredeson and Julie Rodrigue. Caroline recently retired from her private practice in stuttering therapy in Ottawa, Ontario and has passed the torch on to Julie, her former student who is herself a person who clutters. Join Greg as he speaks with Caroline and Julie about being a speech-language pathology student (and teaching them!), developing a deep understanding of stuttering and its impacts, and working as an S-LP with a fluency disorder.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Caroline-Bredeson-and-Julie-Rodrigue-e1o0scl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
