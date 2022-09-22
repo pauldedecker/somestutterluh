@@ -1,0 +1,15 @@
+---
+title:        "Interview with Dr. Valerie Freeman"
+subtitle:     "Season 3 Episode 16"
+date:         "2022-09-22"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Dr. Freeman is an assistant professor in the Communication Sciences and Disorders at Oklahoma State University. Greg speaks to Valerie about her Deaf Experience, Deaf Expression (DXDX) Project and how listeners can take more responsibility for ensuring smoother communication with people who  communicate differently.
+
+This episode airs Sunday, September 25, at 9am Newfoundland Time.
