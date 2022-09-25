@@ -12,6 +12,6 @@ excerpt_separator: <!--more-->
 ---
 Dr. Freeman is an assistant professor in the Communication Sciences and Disorders program at Oklahoma State University. Greg speaks to Valerie about her Deaf Experience, Deaf Expression (DXDX) Project and how listeners can take more responsibility for ensuring smoother communication with people who  communicate differently.
 
-This episode airs Sunday, September 25, at 9am Newfoundland Time.
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Dr--Valerie-Freeman-e1o9fct" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [Click here for more information about the Deaf Experience, Deaf expression Project.](https://dxdx.okstate.edu)
