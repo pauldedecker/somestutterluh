@@ -1,0 +1,17 @@
+---
+title:        "Interview with Steven Hiscock"
+subtitle:     "Season 3 Episode 17"
+date:         "2022-10-02"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+In SSL! episode (S3:E17) Greg speaks with Steven Hiscock. Steven works with the Burgeo Broadcasting Station. Growing up in Burgeo, NL he never imagined he would become an on-camera personality. As a child Steven stuttered; so interviewing people was not a career path he envisioned at all. He was bullied and made fun of a lot. Over time Steven has learned a few tricks to help manage his stutter. Steven says that it's all about your breathing when you talk and along with a few more tricks.
+
+There is a great article [about Steven](https://www.saltwire.com/newfoundland-labrador/news/a-stutterer-no-more-burgeo-newscaster-earning-accolades-for-talking-abilities-308791/) published in SALTWIRE NL by Rosalyn Roy Posted: May 7, 2019.
+
+[Listen now!](https://anchor.fm/somestutterluh)
