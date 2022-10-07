@@ -1,0 +1,18 @@
+---
+title:        "Interview with Ashlie Khaladkar"
+subtitle:     "Season 3 Episode 18"
+date:         "2022-10-09"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+Around the 15 month mark, Ashlie noticed her son wasn't as verbally communicative as his sister at the same age. At 18 months, he wasn't meeting speech milestones and so they found a private SLP to work with them once a month. Then came the diagnosis.
+
+Tune in this week as Ashlie shares her family's story which she hopes can help others on their own journey.
+
+This episode airs Sunday, October 9, at 9am Newfoundland Time.
