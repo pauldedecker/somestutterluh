@@ -1,0 +1,16 @@
+---
+title:        "Interview with Cody Joy"
+subtitle:     "Season 3 Episode 19"
+date:         "2022-10-16"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+Cody is always seeking after that next new experience. An avid traveler, hiker, and coffee aficionado, Cody works for various non-profits, including the John Howard Society, where he offers employment services to formerly incarcerated individuals. He holds a BA in sociology and anthropology from Memorial University, and recently finished a graduate program in human resource management at McGill University. Cody is also immensely interested in politics and intends on running his own political campaign one day, where you might just hear him stutter.
+
+This episode airs Sunday, October 16, at 9am Newfoundland Time.
