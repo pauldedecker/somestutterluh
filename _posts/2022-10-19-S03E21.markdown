@@ -1,0 +1,14 @@
+---
+title:        "Interview with Geneviève Lamoureux"
+subtitle:     "Season 3 Episode 21"
+date:         "2022-10-30"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+
+Coming soon.
