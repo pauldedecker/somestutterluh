@@ -1,7 +1,7 @@
 ---
 title:        "Interview with Brian Woo"
 subtitle:     "Season 3 Episode 20"
-date:         "2022-10-19"
+date:         "2022-10-23"
 keywords:
 mp3-url:      ""
 episode-type: "full" #"trailer"
@@ -13,4 +13,6 @@ excerpt_separator: <!--more-->
 
 Brian has a passion for raising awareness about mental health and is an advocate for the Stuttering community, the Disabled community, the Neurodivergent community, and the Chronic Illness community (which includes immunocompromised people). Brian identifies as a member of each of these communities and he increases awareness of them through his Twitter account @StutterLoudly and his Instagram @StutteringLoudly. 
 
-Tune in on Sunday, October 23 at 9AM Newfoundland Time to [listen to Greg's chat with Brian](https://www.instagram.com/stutteringloudly/) about how we can use our own gifts & talents to create a world that is inclusive & accessible.
+Tune in to listen to Greg's chat with Brian about how we can use our own gifts & talents to create a world that is inclusive & accessible.
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Brian-Woo-e1pkib8/a-a8nv7f2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
