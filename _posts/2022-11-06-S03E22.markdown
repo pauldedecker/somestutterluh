@@ -1,0 +1,15 @@
+---
+title:        "Interview with Stephen Wright (Part 1)"
+subtitle:     "Season 3 Episode 22"
+date:         "2022-11-06"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Please enjoy our series 3 finale! We'll return in 2023. 
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Stephen-Wright-e1qi4cl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
