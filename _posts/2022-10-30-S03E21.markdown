@@ -10,6 +10,10 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
+Transcription and English translation available [here](https://docs.google.com/document/d/1bC_HQOSPkI0eys6vZyNUVjQiX_s-FPzUn5pZHSpxQU8/edit?usp=sharing).
+
+-----
+
 Elle-même une personne qui bégaie, Geneviève Lamoureux s’implique dans la communauté bègue depuis plusieurs années. Depuis 2020, aux côtés de l’orthophoniste Judith Labonté, elle est notamment co-productrice et co-animatrice de « Je je je suis un podcast », le balado de l’Association bégaiement communication (ABC), un organisme basé au Québec offrant des services et ressources aux adultes qui bégaient.
 
 Geneviève est également candidate au doctorat en sciences de l’orthophonie de l’Université de Montréal, où elle mène des recherches sur l’(auto-)stigmatisation des personnes qui bégaient. Détentrice d’une maîtrise professionnelle en orthophonie, elle est aussi diplômée en traduction et littératures d’expression anglaise et française.
