@@ -10,6 +10,12 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Please enjoy our series 3 finale! We'll return in 2023. 
+Michael Wright is from the UK and works within the Nuclear Sector at Sellafield as a Planning Engineer.   
+
+Two years ago he Co founded a online Facebook Group called Stand Up to Stammering, which offers a safe, encouraging, empowering platform that invites members to share their stammering experiences, gain support from other members, and invites them to build on their courage and confidence through the daily mind over matter challenges.
+
+Michael is also Co founder of the Nuclear Stammering Network, which aims to make the Nuclear industry an inclusive place to work for those who stammer, by sign postsing, raising awareness on the subject as well as supporting those within the Nuclear industry who stammer.
 
 <iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-with-Stephen-Wright-e1qi4cl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Please enjoy our series 3 finale! We'll return in 2023.
