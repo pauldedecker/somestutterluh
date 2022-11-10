@@ -1,5 +1,5 @@
 ---
-title:        "Interview with Geneviève Lamoureux"
+title:        "Interview avec / Interview with Geneviève Lamoureux"
 subtitle:     "Season 3 Episode 21"
 date:         "2022-10-30"
 keywords:
@@ -10,5 +10,15 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
+Elle-même une personne qui bégaie, Geneviève Lamoureux s’implique dans la communauté bègue depuis plusieurs années. Depuis 2020, aux côtés de l’orthophoniste Judith Labonté, elle est notamment co-productrice et co-animatrice de « Je je je suis un podcast », le balado de l’Association bégaiement communication (ABC), un organisme basé au Québec offrant des services et ressources aux adultes qui bégaient.
 
-Coming soon.
+Geneviève est également candidate au doctorat en sciences de l’orthophonie de l’Université de Montréal, où elle mène des recherches sur l’(auto-)stigmatisation des personnes qui bégaient. Détentrice d’une maîtrise professionnelle en orthophonie, elle est aussi diplômée en traduction et littératures d’expression anglaise et française.
+
+-----
+
+As a person who stutters, Geneviève Lamoureux has been involved in the stuttering community for several years. Since 2020, alongside speech therapist Judith Labonté, she has been co-producing and co-hosting of "Je je je suis un podcast" (This this this is a podcast), the podcast of the Association bégaiement communication (ABC), a Quebec-based organization offering services and resources to adults who stutter.
+
+Geneviève is also a doctoral candidate in speech-language pathology at the Université de Montréal, where she is conducting research on the (self-)stigmatization of people who stutter. She holds a professional master's degree in speech-language pathology and a degree in English and French translation and literature.
+
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/Interview-avec--Interview-with-Genevive-Lamoureux-e1qi3g9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
