@@ -1,0 +1,36 @@
+---
+title:        "Special Episode"
+subtitle:     "Stuttering and Dating"
+date:         "2023-02-14"
+keywords:
+mp3-url:      ""
+episode-type: "full" #"trailer"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Welcome to a special Valentine’s Day episode of Some Stutter, Luh! Naturally, this episode is about stuttering and dating!
+
+During our conversation today, our guests will be sharing the challenges and triumphs they faced when navigating the unfamiliar and stressful waters of dating while living with a stutter.
+
+Thank you for joining us for this special interactive episode. We know this topic may be uncomfortable for some but recognize it as a very important conversation to have.
+
+Today we have put together a panel of experts :) to chat about stuttering and dating. From past episodes Greg speaks to Liz Fagan, Robert O'Brien with return-guest-couple Carolina and Sang from last year's Valentine's Day special.
+
+There is much to talk about on what I considered to be a confusing and scary topic.
+
+confidence, questions about comfort levels, identify, disclosure, whether or not to disclose, when and how one discloses, fear of consequences, such as disapproval, rejection, etc. benefits of disclosure, relief, self respect, etc.
+Greg asks our guests:
+
+1. What are your individual thoughts about these words and questions based on your individual experiences?
+
+2. While reflecting back on your individual experiences with stuttering and dating - the good, the bad, the ugly - would you have approached your stuttering and dating experiences differently? If yes, why and if not, why not?
+
+3. What advice and or strategies for success can you provide other PWS who are considering entering these unfamiliar and stressful waters of stuttering and dating for the first time?
+
+3. Do you have any advice for individuals who stutter, that based on their previous unsuccessful dating experiences, may have decided to step away from attempting to find the right mate?  Do you have any advice for not giving up this quest?
+
+4. Does being a PWS give you any special qualities that people who don’t stutter might lack in the world of dating? (e.g. are we better listeners?) :)
+
+<iframe src="https://anchor.fm/somestutterluh/embed/episodes/A-Special-Episode-on-Stuttering-and-Dating-e1un5rh" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
